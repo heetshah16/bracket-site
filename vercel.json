@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/h2h/route.ts": {
+      "maxDuration": 10
+    }
+  }
+}
