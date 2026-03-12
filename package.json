@@ -7,8 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "init-players": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/init-players.ts",
     "fetch-ranks": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/fetch-ranks.ts",
     "enhance-svg": "ts-node --project tsconfig.scripts.json -r tsconfig-paths/register scripts/enhance-svg.ts",
+    "setup": "npm run init-players && npm run enhance-svg",
     "prefetch": "npm run fetch-ranks && npm run enhance-svg"
   },
   "dependencies": {

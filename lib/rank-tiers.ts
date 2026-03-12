@@ -6,17 +6,15 @@ export interface Tier {
   cssClass: string;
 }
 
-// ELO thresholds based on MCSR Ranked tier system.
-// Verify exact thresholds at mcsrranked.com before running scripts.
+// MCSR Ranked tier system — Netherite (highest) to Coal (lowest).
+// ELO thresholds are approximate; verify exact cutoffs at mcsrranked.com.
 export const TIER_DEFINITIONS: Tier[] = [
-  { name: "grandmaster", label: "Grandmaster", minElo: 1850, color: "#FF6B35", cssClass: "tier-grandmaster" },
-  { name: "master",      label: "Master",      minElo: 1700, color: "#9B59B6", cssClass: "tier-master" },
-  { name: "diamond",     label: "Diamond",     minElo: 1500, color: "#00BFFF", cssClass: "tier-diamond" },
-  { name: "emerald",     label: "Emerald",     minElo: 1300, color: "#2ECC71", cssClass: "tier-emerald" },
-  { name: "gold",        label: "Gold",        minElo: 1100, color: "#F1C40F", cssClass: "tier-gold" },
-  { name: "silver",      label: "Silver",      minElo:  900, color: "#BEC0C6", cssClass: "tier-silver" },
-  { name: "bronze",      label: "Bronze",      minElo:  700, color: "#CD7F32", cssClass: "tier-bronze" },
-  { name: "iron",        label: "Iron",        minElo:    0, color: "#7F8C8D", cssClass: "tier-iron" },
+  { name: "netherite", label: "Netherite", minElo: 1600, color: "#9333EA", cssClass: "tier-netherite" },
+  { name: "diamond",   label: "Diamond",   minElo: 1300, color: "#60A5FA", cssClass: "tier-diamond" },
+  { name: "emerald",   label: "Emerald",   minElo: 1000, color: "#34D399", cssClass: "tier-emerald" },
+  { name: "gold",      label: "Gold",      minElo:  700, color: "#FBBF24", cssClass: "tier-gold" },
+  { name: "iron",      label: "Iron",      minElo:  400, color: "#E5E7EB", cssClass: "tier-iron" },
+  { name: "coal",      label: "Coal",      minElo:    0, color: "#9CA3AF", cssClass: "tier-coal" },
 ];
 
 export const UNRANKED_TIER: Tier = {
@@ -35,10 +33,10 @@ export function getTierFromElo(elo: number | null): Tier {
   return UNRANKED_TIER;
 }
 
-// CSS style block to inject into the enhanced SVG
+/** CSS block to inject into the enhanced SVG */
 export function buildSvgStyleBlock(): string {
-  const rules = TIER_DEFINITIONS.map(
-    (t) => `.${t.cssClass} { fill: ${t.color}; }`
-  ).join("\n  ");
-  return `<style>\n  ${rules}\n  .${UNRANKED_TIER.cssClass} { fill: ${UNRANKED_TIER.color}; }\n</style>`;
+  const rules = [...TIER_DEFINITIONS, UNRANKED_TIER]
+    .map((t) => `.${t.cssClass} { fill: ${t.color}; }`)
+    .join("\n  ");
+  return `\n  ${rules}\n`;
 }

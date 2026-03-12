@@ -16,15 +16,13 @@ const playersJson = (require("@/data/players.json") as PlayersJson);
 const bracketSlots = (require("@/data/bracket-slots.json") as BracketSlot[]);
 
 const TIER_LEGEND = [
-  { name: "Grandmaster", color: "#FF6B35" },
-  { name: "Master",      color: "#9B59B6" },
-  { name: "Diamond",     color: "#00BFFF" },
-  { name: "Emerald",     color: "#2ECC71" },
-  { name: "Gold",        color: "#F1C40F" },
-  { name: "Silver",      color: "#BEC0C6" },
-  { name: "Bronze",      color: "#CD7F32" },
-  { name: "Iron",        color: "#7F8C8D" },
-  { name: "Unranked",    color: "#555555" },
+  { name: "Netherite", color: "#9333EA" },
+  { name: "Diamond",   color: "#60A5FA" },
+  { name: "Emerald",   color: "#34D399" },
+  { name: "Gold",      color: "#FBBF24" },
+  { name: "Iron",      color: "#E5E7EB" },
+  { name: "Coal",      color: "#9CA3AF" },
+  { name: "Unranked",  color: "#555555" },
 ];
 
 export default function Home() {
