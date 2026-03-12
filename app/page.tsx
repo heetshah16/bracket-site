@@ -15,15 +15,6 @@ const playersJson = (require("@/data/players.json") as PlayersJson);
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const bracketSlots = (require("@/data/bracket-slots.json") as BracketSlot[]);
 
-const TIER_LEGEND = [
-  { name: "Netherite", color: "#9333EA", range: "2000+" },
-  { name: "Diamond",   color: "#60A5FA", range: "1500–1999" },
-  { name: "Emerald",   color: "#34D399", range: "1200–1499" },
-  { name: "Gold",      color: "#FBBF24", range: "900–1199" },
-  { name: "Iron",      color: "#E5E7EB", range: "600–899" },
-  { name: "Coal",      color: "#9CA3AF", range: "0–599" },
-  { name: "Unranked",  color: "#555555", range: "No data" },
-];
 
 export default function Home() {
   const [highlightSeed, setHighlightSeed] = useState<number | null>(null);
@@ -58,31 +49,6 @@ export default function Home() {
             <p className="text-xs mt-0.5" style={{ color: "#6B7280" }}>
               {playerCount} players · Single Elimination
             </p>
-          </div>
-
-          {/* Rank tier legend */}
-          <div
-            className="rounded-lg p-3"
-            style={{ backgroundColor: "#141822", border: "1px solid #22293B" }}
-          >
-            <div
-              className="text-xs font-semibold mb-2 uppercase tracking-wider"
-              style={{ color: "#6B7280" }}
-            >
-              Rank Colors
-            </div>
-            <div className="flex flex-col gap-1.5">
-              {TIER_LEGEND.map((t) => (
-                <div key={t.name} className="flex items-center gap-2 text-xs">
-                  <span
-                    className="inline-block w-2.5 h-2.5 rounded-full shrink-0"
-                    style={{ backgroundColor: t.color }}
-                  />
-                  <span className="font-medium" style={{ color: "#BEC0C6" }}>{t.name}</span>
-                  <span className="ml-auto font-mono" style={{ color: "#6B7280" }}>{t.range}</span>
-                </div>
-              ))}
-            </div>
           </div>
 
           {/* Search */}

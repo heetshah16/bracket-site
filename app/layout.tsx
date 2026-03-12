@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import StarryBackground from "@/components/StarryBackground";
 
 export const metadata: Metadata = {
   title: "EG FFA Tournament Bracket",
@@ -14,8 +13,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">
-        <StarryBackground />
+      <body
+        className="antialiased"
+        style={{
+          backgroundImage: "url('/bg.jpg')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          backgroundAttachment: "fixed",
+          backgroundRepeat: "no-repeat",
+        }}
+      >
         {children}
       </body>
     </html>
