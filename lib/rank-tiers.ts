@@ -7,13 +7,12 @@ export interface Tier {
 }
 
 // MCSR Ranked tier system — Netherite (highest) to Coal (lowest).
-// ELO thresholds are approximate; verify exact cutoffs at mcsrranked.com.
 export const TIER_DEFINITIONS: Tier[] = [
-  { name: "netherite", label: "Netherite", minElo: 1600, color: "#9333EA", cssClass: "tier-netherite" },
-  { name: "diamond",   label: "Diamond",   minElo: 1300, color: "#60A5FA", cssClass: "tier-diamond" },
-  { name: "emerald",   label: "Emerald",   minElo: 1000, color: "#34D399", cssClass: "tier-emerald" },
-  { name: "gold",      label: "Gold",      minElo:  700, color: "#FBBF24", cssClass: "tier-gold" },
-  { name: "iron",      label: "Iron",      minElo:  400, color: "#E5E7EB", cssClass: "tier-iron" },
+  { name: "netherite", label: "Netherite", minElo: 2000, color: "#9333EA", cssClass: "tier-netherite" },
+  { name: "diamond",   label: "Diamond",   minElo: 1500, color: "#60A5FA", cssClass: "tier-diamond" },
+  { name: "emerald",   label: "Emerald",   minElo: 1200, color: "#34D399", cssClass: "tier-emerald" },
+  { name: "gold",      label: "Gold",      minElo:  900, color: "#FBBF24", cssClass: "tier-gold" },
+  { name: "iron",      label: "Iron",      minElo:  600, color: "#E5E7EB", cssClass: "tier-iron" },
   { name: "coal",      label: "Coal",      minElo:    0, color: "#9CA3AF", cssClass: "tier-coal" },
 ];
 

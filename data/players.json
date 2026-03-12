@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-03-12T19:47:17.656Z",
+  "fetchedAt": "2026-03-12T20:03:43.084Z",
   "players": {
     "1": {
       "seed": 1,
       "displayName": "Mukul",
       "mcUsername": "mukvl",
       "discordUsername": "mukvl",
-      "elo": 2020,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1977,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "2": {
@@ -17,8 +17,8 @@
       "mcUsername": "Transcurious",
       "discordUsername": "krliz",
       "elo": 819,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "3": {
@@ -27,8 +27,8 @@
       "mcUsername": "oLudio",
       "discordUsername": "legendename",
       "elo": 1070,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "4": {
@@ -47,8 +47,8 @@
       "mcUsername": "Magmania",
       "discordUsername": "shabdjw",
       "elo": 1913,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "6": {
@@ -57,8 +57,8 @@
       "mcUsername": "CharlieRigatoni",
       "discordUsername": "charlie3770",
       "elo": 855,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "7": {
@@ -67,8 +67,8 @@
       "mcUsername": "Sfren",
       "discordUsername": "sfren",
       "elo": 1664,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "8": {
@@ -77,8 +77,8 @@
       "mcUsername": "ShaydSeven",
       "discordUsername": "shaydseven",
       "elo": 709,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "9": {
@@ -107,8 +107,8 @@
       "mcUsername": "Byugoi",
       "discordUsername": "byugoi",
       "elo": 1764,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "12": {
@@ -136,9 +136,9 @@
       "displayName": "d_gq",
       "mcUsername": "d_gq",
       "discordUsername": "d_gq",
-      "elo": 1377,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1397,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "15": {
@@ -157,8 +157,8 @@
       "mcUsername": "estonianballpit",
       "discordUsername": ".restyled",
       "elo": 1402,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "17": {
@@ -186,9 +186,9 @@
       "displayName": "Frolde",
       "mcUsername": "Frolde",
       "discordUsername": "sn0vte",
-      "elo": 1666,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1706,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "20": {
@@ -197,8 +197,8 @@
       "mcUsername": "Uzema_",
       "discordUsername": "uzema",
       "elo": 1043,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "21": {
@@ -217,8 +217,8 @@
       "mcUsername": "FiendishCodex",
       "discordUsername": "yidhraxel",
       "elo": 719,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "23": {
@@ -237,8 +237,8 @@
       "mcUsername": "CyberOG",
       "discordUsername": "cyber.og",
       "elo": 1722,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "25": {
@@ -246,7 +246,7 @@
       "displayName": "lumafly",
       "mcUsername": "lumaf1y",
       "discordUsername": "lumafl1y",
-      "elo": 936,
+      "elo": 957,
       "tier": "gold",
       "color": "#FBBF24",
       "found": true
@@ -257,8 +257,8 @@
       "mcUsername": "Alboin",
       "discordUsername": "alboiiin.",
       "elo": 877,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "27": {
@@ -277,8 +277,8 @@
       "mcUsername": "Big_Wazza69",
       "discordUsername": "wazzza",
       "elo": 1752,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "29": {
@@ -297,8 +297,8 @@
       "mcUsername": "crispy_squid1",
       "discordUsername": "crispy_squid",
       "elo": 882,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "31": {
@@ -317,8 +317,8 @@
       "mcUsername": "GradientGray",
       "discordUsername": "gradientgray",
       "elo": 1667,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "33": {
@@ -396,9 +396,9 @@
       "displayName": "julie",
       "mcUsername": "snowdeerjulie",
       "discordUsername": "julie_5040",
-      "elo": 1643,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1662,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "41": {
@@ -417,8 +417,8 @@
       "mcUsername": "HDM3",
       "discordUsername": "_arnasz",
       "elo": 452,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "43": {
@@ -447,8 +447,8 @@
       "mcUsername": "sad_isnt_it",
       "discordUsername": "sad_isnt_it",
       "elo": 802,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "46": {
@@ -457,8 +457,8 @@
       "mcUsername": "JebFromGameHouse",
       "discordUsername": "telia5455",
       "elo": 1611,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "47": {
@@ -467,8 +467,8 @@
       "mcUsername": "JimothyJr_",
       "discordUsername": "jimothyjr",
       "elo": 898,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "48": {
@@ -507,8 +507,8 @@
       "mcUsername": "Haid_",
       "discordUsername": ".haid",
       "elo": 1409,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "52": {
@@ -547,8 +547,8 @@
       "mcUsername": "Bu77erBeater",
       "discordUsername": "bu77erbeater",
       "elo": 441,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "56": {
@@ -557,8 +557,8 @@
       "mcUsername": "mulanv44",
       "discordUsername": "mulanv44",
       "elo": 1401,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "57": {
@@ -597,8 +597,8 @@
       "mcUsername": "Jedispace2",
       "discordUsername": "jedispace2_13036",
       "elo": 1340,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "61": {
@@ -617,8 +617,8 @@
       "mcUsername": "sk_im",
       "discordUsername": "sebdagamer",
       "elo": 566,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "63": {
@@ -627,8 +627,8 @@
       "mcUsername": "Crifzer",
       "discordUsername": "aryan.sh",
       "elo": 1456,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "64": {
@@ -656,9 +656,9 @@
       "displayName": "Sam",
       "mcUsername": "McSammich",
       "discordUsername": "sam.red",
-      "elo": 1309,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1331,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "67": {
@@ -687,8 +687,8 @@
       "mcUsername": "eipherr",
       "discordUsername": "eipherr",
       "elo": 1066,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "70": {
@@ -706,9 +706,9 @@
       "displayName": "ukulson",
       "mcUsername": "ukulson",
       "discordUsername": "mlodyukulson",
-      "elo": 831,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 851,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "72": {
@@ -716,9 +716,9 @@
       "displayName": "RRed",
       "mcUsername": "RRed",
       "discordUsername": "rred1",
-      "elo": 1888,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1869,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "73": {
@@ -726,9 +726,9 @@
       "displayName": "Astro",
       "mcUsername": "AstroSaysGG",
       "discordUsername": "astrosaysgg",
-      "elo": 1678,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1658,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "74": {
@@ -747,8 +747,8 @@
       "mcUsername": "RiverTurtle_",
       "discordUsername": "seaturtle___",
       "elo": 1114,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "76": {
@@ -757,8 +757,8 @@
       "mcUsername": "Haxagon",
       "discordUsername": "nogaxah",
       "elo": 1438,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "77": {
@@ -767,8 +767,8 @@
       "mcUsername": "Dowqe",
       "discordUsername": "dowqe",
       "elo": 1617,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "78": {
@@ -777,8 +777,8 @@
       "mcUsername": "thenewcity",
       "discordUsername": "thenewcity",
       "elo": 1815,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "79": {
@@ -786,9 +786,9 @@
       "displayName": "Sinjinplays",
       "mcUsername": "Sinjinplays",
       "discordUsername": "sinjinplays",
-      "elo": 1463,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1446,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "80": {
@@ -807,8 +807,8 @@
       "mcUsername": "kubik2",
       "discordUsername": "kubik2",
       "elo": 1375,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "82": {
@@ -867,8 +867,8 @@
       "mcUsername": "Topimpapig",
       "discordUsername": "boyenn",
       "elo": 1490,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "88": {
@@ -877,8 +877,8 @@
       "mcUsername": "thatguyDZI",
       "discordUsername": "thatguydzi",
       "elo": 1412,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "89": {
@@ -887,8 +887,8 @@
       "mcUsername": "HYDR0GENCHLORIDE",
       "discordUsername": "birpec",
       "elo": 1134,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "90": {
@@ -907,8 +907,8 @@
       "mcUsername": "smeks",
       "discordUsername": "smeksz",
       "elo": 1820,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "92": {
@@ -947,8 +947,8 @@
       "mcUsername": "IIsALlama",
       "discordUsername": "enki_val",
       "elo": 809,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "96": {
@@ -957,8 +957,8 @@
       "mcUsername": "gamer_nl",
       "discordUsername": "gamer_nl",
       "elo": 1187,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "97": {
@@ -967,8 +967,8 @@
       "mcUsername": "Burawoy",
       "discordUsername": "burawoy",
       "elo": 1453,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "98": {
@@ -987,8 +987,8 @@
       "mcUsername": "snekuru",
       "discordUsername": "snekuru",
       "elo": 1011,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "100": {
@@ -997,8 +997,8 @@
       "mcUsername": "Eyal_ROYALE",
       "discordUsername": "eyal_royale",
       "elo": 1458,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "101": {
@@ -1007,8 +1007,8 @@
       "mcUsername": "qBedwars",
       "discordUsername": "qbedwars",
       "elo": 1090,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "102": {
@@ -1017,8 +1017,8 @@
       "mcUsername": "WiiSuper",
       "discordUsername": "wiisuper",
       "elo": 1690,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "103": {
@@ -1027,8 +1027,8 @@
       "mcUsername": "Nadoms",
       "discordUsername": "nadoms",
       "elo": 1458,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "104": {
@@ -1037,8 +1037,8 @@
       "mcUsername": "julieeyay",
       "discordUsername": "julieeeyay",
       "elo": 1172,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "105": {
@@ -1046,9 +1046,9 @@
       "displayName": "Picklefish23",
       "mcUsername": "Picklefish23350",
       "discordUsername": "picklefish52",
-      "elo": 1439,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1418,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "106": {
@@ -1077,8 +1077,8 @@
       "mcUsername": "sharpkittyfangs",
       "discordUsername": "sharpkittyfangs",
       "elo": 1071,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "109": {
@@ -1087,8 +1087,8 @@
       "mcUsername": "starruns",
       "discordUsername": "starmc",
       "elo": 1441,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "110": {
@@ -1117,8 +1117,8 @@
       "mcUsername": "NoplayerCh",
       "discordUsername": "noplayer_ch",
       "elo": 775,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "113": {
@@ -1137,8 +1137,8 @@
       "mcUsername": "Mauvu",
       "discordUsername": "mauvu",
       "elo": 1674,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "115": {
@@ -1147,8 +1147,8 @@
       "mcUsername": "Sanhez",
       "discordUsername": "sanhez",
       "elo": 1171,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "116": {
@@ -1157,8 +1157,8 @@
       "mcUsername": "Trqp_kun",
       "discordUsername": "trqp_kun",
       "elo": 1717,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "117": {
@@ -1177,8 +1177,8 @@
       "mcUsername": "Sathursen",
       "discordUsername": "sathursen",
       "elo": 1148,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "119": {
@@ -1187,8 +1187,8 @@
       "mcUsername": "Oscat_",
       "discordUsername": "oscat_",
       "elo": 438,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "120": {
@@ -1217,8 +1217,8 @@
       "mcUsername": "Karlo585",
       "discordUsername": "karlo6174",
       "elo": 1300,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "123": {
@@ -1237,8 +1237,8 @@
       "mcUsername": "Shafin",
       "discordUsername": "shafinc",
       "elo": 1057,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "125": {
@@ -1287,8 +1287,8 @@
       "mcUsername": "Arqher",
       "discordUsername": "arcqer",
       "elo": 1186,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "130": {
@@ -1297,8 +1297,8 @@
       "mcUsername": "Jppsh",
       "discordUsername": "jppsh",
       "elo": 1690,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "131": {
@@ -1327,8 +1327,8 @@
       "mcUsername": "21mustard",
       "discordUsername": "21mustard",
       "elo": 1892,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "134": {
@@ -1337,8 +1337,8 @@
       "mcUsername": "DaitakuHeli0s",
       "discordUsername": ".sanko",
       "elo": 1657,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "135": {
@@ -1347,8 +1347,8 @@
       "mcUsername": "Jpg777777",
       "discordUsername": "jpg77777",
       "elo": 877,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "136": {
@@ -1367,8 +1367,8 @@
       "mcUsername": "Rahmations",
       "discordUsername": "rahmations",
       "elo": 1749,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "138": {
@@ -1377,8 +1377,8 @@
       "mcUsername": "A1rlesss",
       "discordUsername": "a1rless",
       "elo": 1608,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "139": {
@@ -1397,8 +1397,8 @@
       "mcUsername": "oWinny",
       "discordUsername": "owinny",
       "elo": 1712,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "141": {
@@ -1417,8 +1417,8 @@
       "mcUsername": "freddiehamburger",
       "discordUsername": "freddiehambhurger",
       "elo": 1006,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "143": {
@@ -1427,8 +1427,8 @@
       "mcUsername": "Nacay",
       "discordUsername": "nacay",
       "elo": 1404,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "144": {
@@ -1437,8 +1437,8 @@
       "mcUsername": "hatchlinggg",
       "discordUsername": "hatchlinggg",
       "elo": 714,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "145": {
@@ -1477,8 +1477,8 @@
       "mcUsername": "jua_3421",
       "discordUsername": "jua_3421",
       "elo": 1054,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "149": {
@@ -1487,8 +1487,8 @@
       "mcUsername": "Prackledd",
       "discordUsername": "prackledd",
       "elo": 1037,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "150": {
@@ -1507,8 +1507,8 @@
       "mcUsername": "oSharkie",
       "discordUsername": "osharkyy",
       "elo": 1153,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "152": {
@@ -1526,7 +1526,7 @@
       "displayName": "Codey",
       "mcUsername": "CodeyFPS",
       "discordUsername": "codeyfr",
-      "elo": 950,
+      "elo": 930,
       "tier": "gold",
       "color": "#FBBF24",
       "found": true
@@ -1547,8 +1547,8 @@
       "mcUsername": "tommyinnit_uwu_",
       "discordUsername": "jobahaa",
       "elo": 1157,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "156": {
@@ -1557,8 +1557,8 @@
       "mcUsername": "Anjoru",
       "discordUsername": "anjoru",
       "elo": 1848,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "157": {
@@ -1567,8 +1567,8 @@
       "mcUsername": "worblo",
       "discordUsername": "weston2747",
       "elo": 1064,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "158": {
@@ -1577,8 +1577,8 @@
       "mcUsername": "fruitberries",
       "discordUsername": "fruitberries",
       "elo": 1874,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "159": {
@@ -1597,8 +1597,8 @@
       "mcUsername": "romuu__",
       "discordUsername": "romuu__",
       "elo": 1468,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "161": {
@@ -1607,8 +1607,8 @@
       "mcUsername": "Khantest",
       "discordUsername": "khantest",
       "elo": 1137,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "162": {
@@ -1617,8 +1617,8 @@
       "mcUsername": "KomboJack",
       "discordUsername": "kombojack",
       "elo": 1315,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "163": {
@@ -1637,8 +1637,8 @@
       "mcUsername": "kapaa2k",
       "discordUsername": "kapaa2k",
       "elo": 1015,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "165": {
@@ -1647,8 +1647,8 @@
       "mcUsername": "wooftuah",
       "discordUsername": "woof2ah",
       "elo": 586,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "166": {
@@ -1667,8 +1667,8 @@
       "mcUsername": "seseg",
       "discordUsername": "seseg__",
       "elo": 1713,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "168": {
@@ -1717,8 +1717,8 @@
       "mcUsername": "Paibola",
       "discordUsername": "ze1170",
       "elo": 1057,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "173": {
@@ -1757,8 +1757,8 @@
       "mcUsername": "3Dslime",
       "discordUsername": "jarry_bogg",
       "elo": 768,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "177": {
@@ -1777,8 +1777,8 @@
       "mcUsername": "idkghost_",
       "discordUsername": "_idkghost",
       "elo": 1335,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "179": {
@@ -1787,8 +1787,8 @@
       "mcUsername": "DoubledMint2803",
       "discordUsername": "doubledmint2802",
       "elo": 1131,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "180": {
@@ -1806,9 +1806,9 @@
       "displayName": "cris",
       "mcUsername": "CrisOnTop",
       "discordUsername": "2am_cris",
-      "elo": 1059,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1040,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "182": {
@@ -1817,8 +1817,8 @@
       "mcUsername": "kleptopitek",
       "discordUsername": "foliib",
       "elo": 1065,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "183": {
@@ -1827,8 +1827,8 @@
       "mcUsername": "Deago_",
       "discordUsername": "deago_",
       "elo": 1190,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "184": {
@@ -1837,8 +1837,8 @@
       "mcUsername": "nooobi",
       "discordUsername": "noooobi",
       "elo": 1106,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "185": {
@@ -1877,8 +1877,8 @@
       "mcUsername": "Archipelego",
       "discordUsername": "archipelego",
       "elo": 1045,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "189": {
@@ -1897,8 +1897,8 @@
       "mcUsername": "rtdstuart",
       "discordUsername": "stuartdgreatest",
       "elo": 1382,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "191": {
@@ -1907,8 +1907,8 @@
       "mcUsername": "DJathome",
       "discordUsername": "djathome",
       "elo": 1444,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "192": {
@@ -1957,8 +1957,8 @@
       "mcUsername": "TyPier",
       "discordUsername": "typier",
       "elo": 1363,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "197": {
@@ -1997,8 +1997,8 @@
       "mcUsername": "madobrick",
       "discordUsername": "madobrick",
       "elo": 1419,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "201": {
@@ -2007,8 +2007,8 @@
       "mcUsername": "yourepicruler",
       "discordUsername": "kyoom_",
       "elo": 1372,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "202": {
@@ -2017,8 +2017,8 @@
       "mcUsername": "BrainCrash101",
       "discordUsername": "braincrash101_",
       "elo": 860,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "203": {
@@ -2027,8 +2027,8 @@
       "mcUsername": "connietheycookie",
       "discordUsername": "connietheycookie",
       "elo": 1085,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "204": {
@@ -2047,8 +2047,8 @@
       "mcUsername": "Daniel_H212",
       "discordUsername": "daniel_h212",
       "elo": 1696,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "206": {
@@ -2057,8 +2057,8 @@
       "mcUsername": "Raptoroftheend",
       "discordUsername": "raptoroftheendyt",
       "elo": 1002,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "207": {
@@ -2087,8 +2087,8 @@
       "mcUsername": "Lumion_",
       "discordUsername": "lumineonv",
       "elo": 1665,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "210": {
@@ -2107,8 +2107,8 @@
       "mcUsername": "Malleum",
       "discordUsername": "mallei",
       "elo": 893,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "212": {
@@ -2117,8 +2117,8 @@
       "mcUsername": "galaxy1010_w",
       "discordUsername": "galaxy1010_w",
       "elo": 1615,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "213": {
@@ -2137,8 +2137,8 @@
       "mcUsername": "cheeat",
       "discordUsername": "liqyid",
       "elo": 1065,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "215": {
@@ -2147,8 +2147,8 @@
       "mcUsername": "Ironozzzz",
       "discordUsername": "ironozzz",
       "elo": 1328,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "216": {
@@ -2156,9 +2156,9 @@
       "displayName": "MasOknaf",
       "mcUsername": "MasOknaf",
       "discordUsername": "masoknaf",
-      "elo": 1002,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1021,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "217": {
@@ -2167,8 +2167,8 @@
       "mcUsername": "Flarez__",
       "discordUsername": "flarez__",
       "elo": 848,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "218": {
@@ -2187,8 +2187,8 @@
       "mcUsername": "Tuusi",
       "discordUsername": "thetusi",
       "elo": 1400,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "220": {
@@ -2197,8 +2197,8 @@
       "mcUsername": "LuigiIsGod",
       "discordUsername": "epic3619",
       "elo": 1012,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "221": {
@@ -2207,8 +2207,8 @@
       "mcUsername": "f1Lz",
       "discordUsername": "filokok",
       "elo": 1320,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "222": {
@@ -2227,8 +2227,8 @@
       "mcUsername": "Maxboi_Playz",
       "discordUsername": "maxboiplayz",
       "elo": 840,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "224": {
@@ -2237,8 +2237,8 @@
       "mcUsername": "itxMoon",
       "discordUsername": "itxmoon1",
       "elo": 1640,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "225": {
@@ -2257,8 +2257,8 @@
       "mcUsername": "Yorgo__",
       "discordUsername": "yorgo4",
       "elo": 773,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "227": {
@@ -2287,8 +2287,8 @@
       "mcUsername": "poposor",
       "discordUsername": "poposor",
       "elo": 870,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "230": {
@@ -2296,9 +2296,9 @@
       "displayName": "Squam",
       "mcUsername": "Squams",
       "discordUsername": "squam.",
-      "elo": 1154,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1134,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "231": {
@@ -2307,8 +2307,8 @@
       "mcUsername": "G67MS",
       "discordUsername": "naakzz",
       "elo": 894,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "232": {
@@ -2327,8 +2327,8 @@
       "mcUsername": "ReidMCSR",
       "discordUsername": "armartwa",
       "elo": 1158,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "234": {
@@ -2337,8 +2337,8 @@
       "mcUsername": "U1tr0",
       "discordUsername": "wizardlordasunder",
       "elo": 1845,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "235": {
@@ -2366,7 +2366,7 @@
       "displayName": "Prince",
       "mcUsername": "Prince_01",
       "discordUsername": "prince___ok",
-      "elo": 1532,
+      "elo": 1549,
       "tier": "diamond",
       "color": "#60A5FA",
       "found": true
@@ -2377,8 +2377,8 @@
       "mcUsername": "MoleyG",
       "discordUsername": "moleyg",
       "elo": 1894,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "239": {
@@ -2387,8 +2387,8 @@
       "mcUsername": "Kaaswaterje",
       "discordUsername": "kaaswaterje",
       "elo": 454,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "240": {
@@ -2397,8 +2397,8 @@
       "mcUsername": "catgirlvenus",
       "discordUsername": "venus_0002",
       "elo": 1409,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "241": {
@@ -2417,8 +2417,8 @@
       "mcUsername": "MuhammadPro5741",
       "discordUsername": "kapmcsr",
       "elo": 1740,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "243": {
@@ -2427,8 +2427,8 @@
       "mcUsername": "Slime_Guy_",
       "discordUsername": "_slimeguy",
       "elo": 1395,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "244": {
@@ -2437,8 +2437,8 @@
       "mcUsername": "JackFromHell1",
       "discordUsername": "jackfromhell",
       "elo": 1406,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "245": {
@@ -2467,8 +2467,8 @@
       "mcUsername": "TheRemekkPlays",
       "discordUsername": "theremekk",
       "elo": 1377,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "248": {
@@ -2477,8 +2477,8 @@
       "mcUsername": "PiggyPlague302",
       "discordUsername": "piggyplague302",
       "elo": 1436,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "249": {
@@ -2486,9 +2486,9 @@
       "displayName": "Czelco",
       "mcUsername": "Czelco",
       "discordUsername": "czelco",
-      "elo": 1360,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1379,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "250": {
@@ -2517,8 +2517,8 @@
       "mcUsername": "Pieiscool123",
       "discordUsername": "pieiscool321",
       "elo": 1078,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "253": {
@@ -2527,8 +2527,8 @@
       "mcUsername": "PatrickTN_",
       "discordUsername": "patricktn_",
       "elo": 1474,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "254": {
@@ -2537,8 +2537,8 @@
       "mcUsername": "sarahstarberry",
       "discordUsername": "tigerclone",
       "elo": 716,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "255": {
@@ -2567,8 +2567,8 @@
       "mcUsername": "MangoPoutine",
       "discordUsername": "mangoonsight",
       "elo": 871,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "258": {
@@ -2577,8 +2577,8 @@
       "mcUsername": "ChidoriNL",
       "discordUsername": "chidorinl",
       "elo": 1019,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "259": {
@@ -2587,8 +2587,8 @@
       "mcUsername": "SlydonCooper",
       "discordUsername": "thecoopercoop",
       "elo": 817,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "260": {
@@ -2596,9 +2596,9 @@
       "displayName": "nb",
       "mcUsername": "nb4p",
       "discordUsername": "nb4p",
-      "elo": 1215,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1197,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "261": {
@@ -2607,8 +2607,8 @@
       "mcUsername": "dddeergirl",
       "discordUsername": "deergirl",
       "elo": 1384,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "262": {
@@ -2617,8 +2617,8 @@
       "mcUsername": "_axurios",
       "discordUsername": "5qt",
       "elo": 715,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "263": {
@@ -2637,8 +2637,8 @@
       "mcUsername": "UkePlayer77",
       "discordUsername": "ukeplayer77",
       "elo": 1311,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "265": {
@@ -2647,8 +2647,8 @@
       "mcUsername": "legoboy1243_",
       "discordUsername": "sumokitty",
       "elo": 1377,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "266": {
@@ -2657,8 +2657,8 @@
       "mcUsername": "Sky2516",
       "discordUsername": "sky2516",
       "elo": 1107,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "267": {
@@ -2677,8 +2677,8 @@
       "mcUsername": "oGarfield",
       "discordUsername": "ogarfield",
       "elo": 1463,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "269": {
@@ -2687,8 +2687,8 @@
       "mcUsername": "te2et",
       "discordUsername": "te2et",
       "elo": 1466,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "270": {
@@ -2696,9 +2696,9 @@
       "displayName": "Povio",
       "mcUsername": "Povio",
       "discordUsername": "povio",
-      "elo": 1055,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1037,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "271": {
@@ -2727,8 +2727,8 @@
       "mcUsername": "ItsZel",
       "discordUsername": "zelteric",
       "elo": 1177,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "274": {
@@ -2737,8 +2737,8 @@
       "mcUsername": "Rugbug_Redfern",
       "discordUsername": "rugdev",
       "elo": 1072,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "275": {
@@ -2767,8 +2767,8 @@
       "mcUsername": "Ayball",
       "discordUsername": "big_man_kristoffer",
       "elo": 774,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "278": {
@@ -2777,8 +2777,8 @@
       "mcUsername": "dnaiel_",
       "discordUsername": "dnaiel_1",
       "elo": 759,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "279": {
@@ -2797,8 +2797,8 @@
       "mcUsername": "Kelawesome",
       "discordUsername": "kelawesome",
       "elo": 1417,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "281": {
@@ -2807,8 +2807,8 @@
       "mcUsername": "Kaltsi",
       "discordUsername": "kaltsi",
       "elo": 1673,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "282": {
@@ -2817,8 +2817,8 @@
       "mcUsername": "crazelol",
       "discordUsername": "crazewo",
       "elo": 1158,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "283": {
@@ -2837,8 +2837,8 @@
       "mcUsername": "Slinky17",
       "discordUsername": "thedinkyslinky",
       "elo": 1118,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "285": {
@@ -2857,8 +2857,8 @@
       "mcUsername": "fovolli",
       "discordUsername": "cornflakes5653",
       "elo": 1128,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "287": {
@@ -2867,8 +2867,8 @@
       "mcUsername": "Olivjeee",
       "discordUsername": "olivijf",
       "elo": 1100,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "288": {
@@ -2876,7 +2876,7 @@
       "displayName": "kazoklp",
       "mcUsername": "kazoklp",
       "discordUsername": "b9107",
-      "elo": 1525,
+      "elo": 1524,
       "tier": "diamond",
       "color": "#60A5FA",
       "found": true
@@ -2887,8 +2887,8 @@
       "mcUsername": "derakous",
       "discordUsername": "derakous",
       "elo": 1438,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "290": {
@@ -2897,8 +2897,8 @@
       "mcUsername": "Molong4",
       "discordUsername": "molong.",
       "elo": 832,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "291": {
@@ -2947,8 +2947,8 @@
       "mcUsername": "catpats",
       "discordUsername": "chicoryroot",
       "elo": 1606,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "296": {
@@ -2957,8 +2957,8 @@
       "mcUsername": "PotatoLucy",
       "discordUsername": "potatolucy",
       "elo": 838,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "297": {
@@ -2977,8 +2977,8 @@
       "mcUsername": "Kirbo1234",
       "discordUsername": "kirbo1234_",
       "elo": 1430,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "299": {
@@ -2987,8 +2987,8 @@
       "mcUsername": "Tatu__",
       "discordUsername": "vilcheztatu",
       "elo": 1016,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "300": {
@@ -3007,8 +3007,8 @@
       "mcUsername": "soybeansauce",
       "discordUsername": "soybeansauce",
       "elo": 865,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "302": {
@@ -3027,8 +3027,8 @@
       "mcUsername": "MaybeSoul",
       "discordUsername": "bruhmoment9083",
       "elo": 1929,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "304": {
@@ -3037,8 +3037,8 @@
       "mcUsername": "Vysuals",
       "discordUsername": "vysuals",
       "elo": 1119,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "305": {
@@ -3047,8 +3047,8 @@
       "mcUsername": "Piissii",
       "discordUsername": "piissii",
       "elo": 1762,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "306": {
@@ -3057,8 +3057,8 @@
       "mcUsername": "vankumbu",
       "discordUsername": "kinderst",
       "elo": 1487,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "307": {
@@ -3067,8 +3067,8 @@
       "mcUsername": "Rezy_The_cupcake",
       "discordUsername": "rezythecupcake",
       "elo": 838,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "308": {
@@ -3087,8 +3087,8 @@
       "mcUsername": "Duk4n_",
       "discordUsername": "0duk4n",
       "elo": 1953,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "310": {
@@ -3097,8 +3097,8 @@
       "mcUsername": "arxll",
       "discordUsername": "arxwrs",
       "elo": 1656,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "311": {
@@ -3106,9 +3106,9 @@
       "displayName": "urenzal",
       "mcUsername": "Urenzal",
       "discordUsername": "urenzal",
-      "elo": 1672,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1691,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "312": {
@@ -3127,8 +3127,8 @@
       "mcUsername": "qafo_",
       "discordUsername": "qafo",
       "elo": 1669,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "314": {
@@ -3137,8 +3137,8 @@
       "mcUsername": "lilypyonn",
       "discordUsername": "lilypyon",
       "elo": 1019,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "315": {
@@ -3146,7 +3146,7 @@
       "displayName": "hasuo",
       "mcUsername": "elo_terminator",
       "discordUsername": "hasuo_",
-      "elo": 1279,
+      "elo": 1300,
       "tier": "emerald",
       "color": "#34D399",
       "found": true
@@ -3167,8 +3167,8 @@
       "mcUsername": "TripledToHerGap",
       "discordUsername": "scoot7685",
       "elo": 791,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "318": {
@@ -3197,8 +3197,8 @@
       "mcUsername": "AeroAstroid",
       "discordUsername": "aeroastroid",
       "elo": 1705,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "321": {
@@ -3227,8 +3227,8 @@
       "mcUsername": "Iamaturtle1",
       "discordUsername": "turtl_zz",
       "elo": 1003,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "324": {
@@ -3237,8 +3237,8 @@
       "mcUsername": "mistralta",
       "discordUsername": "mistralta",
       "elo": 1405,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "325": {
@@ -3247,8 +3247,8 @@
       "mcUsername": "277r",
       "discordUsername": "277ms",
       "elo": 1046,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "326": {
@@ -3257,8 +3257,8 @@
       "mcUsername": "rockmeriven",
       "discordUsername": "rockmeriven",
       "elo": 784,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "327": {
@@ -3296,7 +3296,7 @@
       "displayName": "creeperskilldogs",
       "mcUsername": "creeperskilldogs",
       "discordUsername": "isthisagoodname.",
-      "elo": 590,
+      "elo": 611,
       "tier": "iron",
       "color": "#E5E7EB",
       "found": true
@@ -3307,8 +3307,8 @@
       "mcUsername": "Drowe",
       "discordUsername": "asaius",
       "elo": 1071,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "332": {
@@ -3347,8 +3347,8 @@
       "mcUsername": "Darthloll",
       "discordUsername": "darthloll",
       "elo": 1636,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "336": {
@@ -3357,8 +3357,8 @@
       "mcUsername": "Clueless147",
       "discordUsername": "clueless147",
       "elo": 1127,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "337": {
@@ -3377,8 +3377,8 @@
       "mcUsername": "ethwit",
       "discordUsername": "ethwit",
       "elo": 1702,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "339": {
@@ -3386,9 +3386,9 @@
       "displayName": "roscomnadzor",
       "mcUsername": "roscomnadzor",
       "discordUsername": "temanets",
-      "elo": 810,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 789,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "340": {
@@ -3397,8 +3397,8 @@
       "mcUsername": "TheLandSharkJeff",
       "discordUsername": "kirebot",
       "elo": 1995,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "341": {
@@ -3407,8 +3407,8 @@
       "mcUsername": "_Reide",
       "discordUsername": "_reide",
       "elo": 1015,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "342": {
@@ -3417,8 +3417,8 @@
       "mcUsername": "bontalor",
       "discordUsername": "bontalor",
       "elo": 1350,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "343": {
@@ -3427,8 +3427,8 @@
       "mcUsername": "Tiberrr_Ari",
       "discordUsername": "arijohann",
       "elo": 1404,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "344": {
@@ -3457,8 +3457,8 @@
       "mcUsername": "BaccaDeww",
       "discordUsername": "baccadeww",
       "elo": 1741,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "347": {
@@ -3477,8 +3477,8 @@
       "mcUsername": "Miltonias",
       "discordUsername": "boon006",
       "elo": 1410,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "349": {
@@ -3487,8 +3487,8 @@
       "mcUsername": "ekbb2",
       "discordUsername": "ekbb",
       "elo": 771,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "350": {
@@ -3497,8 +3497,8 @@
       "mcUsername": "yuukue",
       "discordUsername": "yuukue",
       "elo": 1402,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "351": {
@@ -3517,8 +3517,8 @@
       "mcUsername": "Scopen86",
       "discordUsername": "scopen86",
       "elo": 834,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "353": {
@@ -3527,8 +3527,8 @@
       "mcUsername": "fishari",
       "discordUsername": "fishari",
       "elo": 1092,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "354": {
@@ -3537,8 +3537,8 @@
       "mcUsername": "losercore",
       "discordUsername": "fartsmella",
       "elo": 1386,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "355": {
@@ -3547,8 +3547,8 @@
       "mcUsername": "Ybot__",
       "discordUsername": "ybot76",
       "elo": 1405,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "356": {
@@ -3577,8 +3577,8 @@
       "mcUsername": "Sensiboomer",
       "discordUsername": "sensikekw",
       "elo": 1065,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "359": {
@@ -3587,8 +3587,8 @@
       "mcUsername": "Logs808",
       "discordUsername": "nova96818",
       "elo": 767,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "360": {
@@ -3617,8 +3617,8 @@
       "mcUsername": "beavery",
       "discordUsername": "beavery.com",
       "elo": 1800,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "363": {
@@ -3637,8 +3637,8 @@
       "mcUsername": "PepperLIVE",
       "discordUsername": "peppermations",
       "elo": 898,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "365": {
@@ -3647,8 +3647,8 @@
       "mcUsername": "Violett_e",
       "discordUsername": "_violetcloud",
       "elo": 1472,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "366": {
@@ -3657,8 +3657,8 @@
       "mcUsername": "_KrakerS",
       "discordUsername": "maselko6",
       "elo": 1964,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "367": {
@@ -3667,8 +3667,8 @@
       "mcUsername": "voyager63",
       "discordUsername": "voyager_63",
       "elo": 1606,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "368": {
@@ -3677,8 +3677,8 @@
       "mcUsername": "De6ept",
       "discordUsername": "de6ept",
       "elo": 1126,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "369": {
@@ -3687,8 +3687,8 @@
       "mcUsername": "JackoWacko62",
       "discordUsername": "jackowacko62",
       "elo": 1871,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "370": {
@@ -3717,8 +3717,8 @@
       "mcUsername": "FaNim21",
       "discordUsername": "fanim",
       "elo": 1346,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "373": {
@@ -3727,8 +3727,8 @@
       "mcUsername": "lunarcinna",
       "discordUsername": "lunarcinna",
       "elo": 1300,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "374": {
@@ -3757,8 +3757,8 @@
       "mcUsername": "Seapeekay",
       "discordUsername": "seapeekay",
       "elo": 1162,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "377": {
@@ -3767,8 +3767,8 @@
       "mcUsername": "skullerr_",
       "discordUsername": "skullerr_",
       "elo": 588,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "378": {
@@ -3777,8 +3777,8 @@
       "mcUsername": "marmarounos",
       "discordUsername": "marmarounos",
       "elo": 1113,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "379": {
@@ -3787,8 +3787,8 @@
       "mcUsername": "ser0ses",
       "discordUsername": "ser0ses",
       "elo": 823,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "380": {
@@ -3797,8 +3797,8 @@
       "mcUsername": "HailZeus",
       "discordUsername": "hailzeus.",
       "elo": 1620,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "381": {
@@ -3807,8 +3807,8 @@
       "mcUsername": "fnhvr",
       "discordUsername": "fnhvr",
       "elo": 1847,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "382": {
@@ -3817,8 +3817,8 @@
       "mcUsername": "FireLord12",
       "discordUsername": "firelord12",
       "elo": 1375,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "383": {
@@ -3827,8 +3827,8 @@
       "mcUsername": "Dxw3950",
       "discordUsername": "dxw3950",
       "elo": 1769,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "384": {
@@ -3847,8 +3847,8 @@
       "mcUsername": "TasteTomato",
       "discordUsername": "mrrtinez",
       "elo": 711,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "386": {
@@ -3856,9 +3856,9 @@
       "displayName": "jpliketaco",
       "mcUsername": "jpliketaco",
       "discordUsername": "jpliketaco",
-      "elo": 818,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 798,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "387": {
@@ -3867,8 +3867,8 @@
       "mcUsername": "aCactie",
       "discordUsername": "quiverycacti",
       "elo": 1329,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "388": {
@@ -3876,9 +3876,9 @@
       "displayName": "Benyay",
       "mcUsername": "Heeheemiester68",
       "discordUsername": "benyaystick9",
-      "elo": 1124,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1146,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "389": {
@@ -3907,8 +3907,8 @@
       "mcUsername": "marcyselo_",
       "discordUsername": "marcychaelo",
       "elo": 583,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "392": {
@@ -3927,8 +3927,8 @@
       "mcUsername": "TumaChiss",
       "discordUsername": "tumachiss2",
       "elo": 1150,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "394": {
@@ -3947,8 +3947,8 @@
       "mcUsername": "xLourx",
       "discordUsername": "xlourx",
       "elo": 1626,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "396": {
@@ -3967,8 +3967,8 @@
       "mcUsername": "Akimaster",
       "discordUsername": "akimastor",
       "elo": 1660,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "398": {
@@ -3987,8 +3987,8 @@
       "mcUsername": "SpectralThief",
       "discordUsername": "spectralthief",
       "elo": 1407,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "400": {
@@ -3997,8 +3997,8 @@
       "mcUsername": "wagapizu",
       "discordUsername": "pizu_",
       "elo": 1964,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "401": {
@@ -4006,9 +4006,9 @@
       "displayName": "pandaendoz",
       "mcUsername": "pandaendoz",
       "discordUsername": "pandaman2",
-      "elo": 1814,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1841,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "402": {
@@ -4017,8 +4017,8 @@
       "mcUsername": "BlobDaCat",
       "discordUsername": "blobdacat",
       "elo": 531,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "403": {
@@ -4037,8 +4037,8 @@
       "mcUsername": "handfool",
       "discordUsername": "handfoolfps",
       "elo": 1103,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "405": {
@@ -4047,8 +4047,8 @@
       "mcUsername": "_Frier3n_",
       "discordUsername": "faithy333333",
       "elo": 1866,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "406": {
@@ -4067,8 +4067,8 @@
       "mcUsername": "Jos_13",
       "discordUsername": "jos_13",
       "elo": 1411,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "408": {
@@ -4077,8 +4077,8 @@
       "mcUsername": "Genkii27",
       "discordUsername": "gen227",
       "elo": 1414,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "409": {
@@ -4087,8 +4087,8 @@
       "mcUsername": "mcakaa",
       "discordUsername": "mcaka_80802",
       "elo": 835,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "410": {
@@ -4097,8 +4097,8 @@
       "mcUsername": "PotatoBRB",
       "discordUsername": "potatobrb",
       "elo": 1441,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "411": {
@@ -4107,8 +4107,8 @@
       "mcUsername": "Aleys",
       "discordUsername": "aleyoop",
       "elo": 1454,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "412": {
@@ -4127,8 +4127,8 @@
       "mcUsername": "clasherrms",
       "discordUsername": "clasherrms",
       "elo": 1478,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "414": {
@@ -4137,8 +4137,8 @@
       "mcUsername": "Perspectpeiae",
       "discordUsername": "ziwerttogo",
       "elo": 832,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "415": {
@@ -4147,8 +4147,8 @@
       "mcUsername": "wansou",
       "discordUsername": "wansou",
       "elo": 1118,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "416": {
@@ -4157,8 +4157,8 @@
       "mcUsername": "Cookieaddicts",
       "discordUsername": "cookieaddicts",
       "elo": 1777,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "417": {
@@ -4167,8 +4167,8 @@
       "mcUsername": "WDWiktor",
       "discordUsername": "wdwiktor",
       "elo": 518,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "418": {
@@ -4177,8 +4177,8 @@
       "mcUsername": "Ally_Luke",
       "discordUsername": "ironwolf0416",
       "elo": 594,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "419": {
@@ -4187,8 +4187,8 @@
       "mcUsername": "T0astyBoot",
       "discordUsername": "toastyboot",
       "elo": 1301,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "420": {
@@ -4197,8 +4197,8 @@
       "mcUsername": "Zehdryk",
       "discordUsername": "znqmcpe",
       "elo": 875,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "421": {
@@ -4217,8 +4217,8 @@
       "mcUsername": "Jasgamer409",
       "discordUsername": "jasgamer409",
       "elo": 1898,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "423": {
@@ -4227,8 +4227,8 @@
       "mcUsername": "offlinelotus",
       "discordUsername": "offlinelotus",
       "elo": 1701,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "424": {
@@ -4237,8 +4237,8 @@
       "mcUsername": "fe666",
       "discordUsername": "fesix66",
       "elo": 1864,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "425": {
@@ -4287,8 +4287,8 @@
       "mcUsername": "Talfy",
       "discordUsername": "talfy",
       "elo": 1481,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "430": {
@@ -4297,8 +4297,8 @@
       "mcUsername": "Farbwechsler",
       "discordUsername": "farbenwechsler",
       "elo": 1471,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "431": {
@@ -4317,8 +4317,8 @@
       "mcUsername": "ilovemay72",
       "discordUsername": "kaimiura",
       "elo": 1384,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "433": {
@@ -4327,8 +4327,8 @@
       "mcUsername": "noobbcp",
       "discordUsername": "noobbcp",
       "elo": 1404,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "434": {
@@ -4337,8 +4337,8 @@
       "mcUsername": "TonyPeperoni763",
       "discordUsername": "tonypeperoni763",
       "elo": 831,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "435": {
@@ -4357,8 +4357,8 @@
       "mcUsername": "Livld",
       "discordUsername": "livld",
       "elo": 1109,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "437": {
@@ -4377,8 +4377,8 @@
       "mcUsername": "koala488",
       "discordUsername": "hidratacao",
       "elo": 1447,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "439": {
@@ -4386,9 +4386,9 @@
       "displayName": "chrisxd",
       "mcUsername": "SocratesDisciple",
       "discordUsername": "chrisxd_",
-      "elo": 1973,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1990,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "440": {
@@ -4437,8 +4437,8 @@
       "mcUsername": "RecallOcean",
       "discordUsername": ".radio_d",
       "elo": 1100,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "445": {
@@ -4467,8 +4467,8 @@
       "mcUsername": "wagayman",
       "discordUsername": "ayman_7",
       "elo": 1907,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "448": {
@@ -4497,8 +4497,8 @@
       "mcUsername": "Purpulpeopleater",
       "discordUsername": "purpulpeopleater",
       "elo": 1492,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "451": {
@@ -4517,8 +4517,8 @@
       "mcUsername": "WhyTaiLive",
       "discordUsername": "whytailive",
       "elo": 1442,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "453": {
@@ -4527,8 +4527,8 @@
       "mcUsername": "RTPhi",
       "discordUsername": "rtphi",
       "elo": 1118,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "454": {
@@ -4537,8 +4537,8 @@
       "mcUsername": "gr1mcat",
       "discordUsername": "gr1mcat",
       "elo": 1128,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "455": {
@@ -4546,7 +4546,7 @@
       "displayName": "Voitto",
       "mcUsername": "Voitto1",
       "discordUsername": "voitto0031",
-      "elo": 1558,
+      "elo": 1579,
       "tier": "diamond",
       "color": "#60A5FA",
       "found": true
@@ -4567,8 +4567,8 @@
       "mcUsername": "YveltalGaming",
       "discordUsername": "yveltalgaming",
       "elo": 1002,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "458": {
@@ -4577,8 +4577,8 @@
       "mcUsername": "Murtgah",
       "discordUsername": "murtgah",
       "elo": 1373,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "459": {
@@ -4597,8 +4597,8 @@
       "mcUsername": "NeverStreSS_",
       "discordUsername": "doleryt",
       "elo": 1060,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "461": {
@@ -4656,9 +4656,9 @@
       "displayName": "waluyoshi",
       "mcUsername": "autoqualler",
       "discordUsername": "waluyoshi",
-      "elo": 1802,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1824,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "467": {
@@ -4667,8 +4667,8 @@
       "mcUsername": "LaaCarpe",
       "discordUsername": "lacarpe_",
       "elo": 1407,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "468": {
@@ -4727,8 +4727,8 @@
       "mcUsername": "Snakezy",
       "discordUsername": "snakezy.",
       "elo": 1696,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "474": {
@@ -4737,8 +4737,8 @@
       "mcUsername": "artificialair",
       "discordUsername": "artificialair",
       "elo": 1080,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "475": {
@@ -4757,8 +4757,8 @@
       "mcUsername": "GishyJ",
       "discordUsername": "gishy_",
       "elo": 841,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "477": {
@@ -4777,8 +4777,8 @@
       "mcUsername": "RoosVengeance",
       "discordUsername": "RoosVengeance",
       "elo": 1416,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "479": {
@@ -4787,8 +4787,8 @@
       "mcUsername": "emnerson",
       "discordUsername": "emnerson",
       "elo": 1631,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "480": {
@@ -4797,8 +4797,8 @@
       "mcUsername": "Flashdenn",
       "discordUsername": "flashdenn",
       "elo": 1480,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "481": {
@@ -4807,8 +4807,8 @@
       "mcUsername": "Smelt824",
       "discordUsername": "smelt824",
       "elo": 471,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "482": {
@@ -4817,8 +4817,8 @@
       "mcUsername": "AzHEHE",
       "discordUsername": "azhehe",
       "elo": 1673,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "483": {
@@ -4837,8 +4837,8 @@
       "mcUsername": "cozyton",
       "discordUsername": "cozyton",
       "elo": 1096,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "485": {
@@ -4847,8 +4847,8 @@
       "mcUsername": "MrJeck",
       "discordUsername": "mrjeckr",
       "elo": 1414,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "486": {
@@ -4877,8 +4877,8 @@
       "mcUsername": "SC_Mirad",
       "discordUsername": "sc_mirad",
       "elo": 705,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "489": {
@@ -4886,7 +4886,7 @@
       "displayName": "Snug",
       "mcUsername": "SnugAsABugInARug",
       "discordUsername": "snugasf",
-      "elo": 1512,
+      "elo": 1532,
       "tier": "diamond",
       "color": "#60A5FA",
       "found": true
@@ -4897,8 +4897,8 @@
       "mcUsername": "Bartorino",
       "discordUsername": "bartorino",
       "elo": 1881,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "491": {
@@ -4907,8 +4907,8 @@
       "mcUsername": "LastSparx",
       "discordUsername": "lastsparx",
       "elo": 1358,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "492": {
@@ -4917,8 +4917,8 @@
       "mcUsername": "BlackSemka",
       "discordUsername": "black_semka",
       "elo": 878,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "493": {
@@ -4927,8 +4927,8 @@
       "mcUsername": "Pahsivv",
       "discordUsername": "rergdena",
       "elo": 1358,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "494": {
@@ -4947,8 +4947,8 @@
       "mcUsername": "Dubb0",
       "discordUsername": "dubbo.",
       "elo": 1170,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "496": {
@@ -4957,8 +4957,8 @@
       "mcUsername": "ThatEpicCreeper",
       "discordUsername": "thatepiccreeper",
       "elo": 1194,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "497": {
@@ -4967,8 +4967,8 @@
       "mcUsername": "reueuZz",
       "discordUsername": "reuzsr",
       "elo": 1000,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "498": {
@@ -4977,8 +4977,8 @@
       "mcUsername": "ohFiz",
       "discordUsername": "emuzoo",
       "elo": 1118,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "499": {
@@ -4997,8 +4997,8 @@
       "mcUsername": "0x57696c6c",
       "discordUsername": "0x57696c6c",
       "elo": 1038,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "501": {
@@ -5007,8 +5007,8 @@
       "mcUsername": "natebridge",
       "discordUsername": "natebridge314",
       "elo": 1721,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "502": {
@@ -5017,8 +5017,8 @@
       "mcUsername": "asinphi",
       "discordUsername": "liu.j",
       "elo": 1472,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "503": {
@@ -5037,8 +5037,8 @@
       "mcUsername": "cieiel",
       "discordUsername": "bladeeicedancer",
       "elo": 1340,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "505": {
@@ -5066,9 +5066,9 @@
       "displayName": "SleepingBoy",
       "mcUsername": "du3h",
       "discordUsername": "sleepingboy80",
-      "elo": 1751,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1732,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "508": {
@@ -5077,8 +5077,8 @@
       "mcUsername": "BINGCHILLINGEKUL",
       "discordUsername": "bingchillingekul",
       "elo": 1011,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "509": {
@@ -5097,8 +5097,8 @@
       "mcUsername": "Aorean",
       "discordUsername": "aorean",
       "elo": 1042,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "511": {
@@ -5117,8 +5117,8 @@
       "mcUsername": "WarioTime1",
       "discordUsername": "wariotime",
       "elo": 1816,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "513": {
@@ -5127,8 +5127,8 @@
       "mcUsername": "Greencat9",
       "discordUsername": "greencat9",
       "elo": 877,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "514": {
@@ -5137,8 +5137,8 @@
       "mcUsername": "Meli_GG",
       "discordUsername": "melig",
       "elo": 865,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "515": {
@@ -5147,8 +5147,8 @@
       "mcUsername": "silver_les",
       "discordUsername": "silver_les",
       "elo": 510,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "516": {
@@ -5157,8 +5157,8 @@
       "mcUsername": "webwormy",
       "discordUsername": "webwormy",
       "elo": 1660,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "517": {
@@ -5167,8 +5167,8 @@
       "mcUsername": "Alpha_1644",
       "discordUsername": "alphachess44",
       "elo": 1764,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "518": {
@@ -5177,8 +5177,8 @@
       "mcUsername": "mdew_",
       "discordUsername": "m0rningdew",
       "elo": 1462,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "519": {
@@ -5197,8 +5197,8 @@
       "mcUsername": "Plenttz",
       "discordUsername": "plenttz",
       "elo": 1061,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "521": {
@@ -5217,8 +5217,8 @@
       "mcUsername": "Lenged",
       "discordUsername": "lenged",
       "elo": 1827,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "523": {
@@ -5237,8 +5237,8 @@
       "mcUsername": "Leeskie_",
       "discordUsername": "leeskie",
       "elo": 1113,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "525": {
@@ -5247,8 +5247,8 @@
       "mcUsername": "happycoolgamer49",
       "discordUsername": "happycoolgamer49",
       "elo": 779,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "526": {
@@ -5267,8 +5267,8 @@
       "mcUsername": "MrKijMyh",
       "discordUsername": "kijmyhuu",
       "elo": 1139,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "528": {
@@ -5277,8 +5277,8 @@
       "mcUsername": "attilathehunnn",
       "discordUsername": "attilathehunnn",
       "elo": 716,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "529": {
@@ -5287,8 +5287,8 @@
       "mcUsername": "pawsom",
       "discordUsername": "pawsomeow",
       "elo": 707,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "530": {
@@ -5297,8 +5297,8 @@
       "mcUsername": "Gilbert14",
       "discordUsername": "livelaughliverfailure",
       "elo": 1738,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "531": {
@@ -5307,8 +5307,8 @@
       "mcUsername": "ashlynx63",
       "discordUsername": "ashleuw",
       "elo": 1315,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "532": {
@@ -5327,8 +5327,8 @@
       "mcUsername": "Poody_",
       "discordUsername": "therealdj1",
       "elo": 1129,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "534": {
@@ -5396,9 +5396,9 @@
       "displayName": "Leexz",
       "mcUsername": "Leexz",
       "discordUsername": "leexz",
-      "elo": 755,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 734,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "541": {
@@ -5407,8 +5407,8 @@
       "mcUsername": "oshgay",
       "discordUsername": "oshgay",
       "elo": 1794,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "542": {
@@ -5417,8 +5417,8 @@
       "mcUsername": "35pi",
       "discordUsername": "suiseilover15",
       "elo": 1146,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "543": {
@@ -5437,8 +5437,8 @@
       "mcUsername": "CrispLake",
       "discordUsername": "crisplake",
       "elo": 1439,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "545": {
@@ -5447,8 +5447,8 @@
       "mcUsername": "Hycosmal",
       "discordUsername": "hycosmal",
       "elo": 1196,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "546": {
@@ -5457,8 +5457,8 @@
       "mcUsername": "Tharve",
       "discordUsername": "tharve",
       "elo": 1093,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "547": {
@@ -5466,7 +5466,7 @@
       "displayName": "Phoenix334_",
       "mcUsername": "Phoenix334",
       "discordUsername": "phoenix334",
-      "elo": 681,
+      "elo": 662,
       "tier": "iron",
       "color": "#E5E7EB",
       "found": true
@@ -5497,8 +5497,8 @@
       "mcUsername": "Only_flame",
       "discordUsername": "flameingmc",
       "elo": 804,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "551": {
@@ -5507,8 +5507,8 @@
       "mcUsername": "_Edvin_",
       "discordUsername": "edvin1314",
       "elo": 859,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "552": {
@@ -5517,8 +5517,8 @@
       "mcUsername": "MendedSphere820",
       "discordUsername": "didgjitjugs",
       "elo": 1472,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "553": {
@@ -5547,8 +5547,8 @@
       "mcUsername": "BigSoub",
       "discordUsername": ".sobs",
       "elo": 1145,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "556": {
@@ -5557,8 +5557,8 @@
       "mcUsername": "PorkPiedPenguin",
       "discordUsername": "porkpiedpenguin",
       "elo": 1446,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "557": {
@@ -5577,8 +5577,8 @@
       "mcUsername": "CalicoMystique",
       "discordUsername": "calico_aura",
       "elo": 832,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "559": {
@@ -5587,8 +5587,8 @@
       "mcUsername": "okCobalt",
       "discordUsername": "amcobalt",
       "elo": 1669,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "560": {
@@ -5597,8 +5597,8 @@
       "mcUsername": "mangrovejack",
       "discordUsername": "purplewormwhat",
       "elo": 1838,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "561": {
@@ -5637,8 +5637,8 @@
       "mcUsername": "graysandwich",
       "discordUsername": "graysandwich",
       "elo": 1037,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "565": {
@@ -5657,8 +5657,8 @@
       "mcUsername": "Popomann_",
       "discordUsername": "hendri_0210",
       "elo": 1335,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "567": {
@@ -5687,8 +5687,8 @@
       "mcUsername": "EVPZ",
       "discordUsername": "evpztcg",
       "elo": 832,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "570": {
@@ -5707,8 +5707,8 @@
       "mcUsername": "Taccm",
       "discordUsername": "taccm",
       "elo": 883,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "572": {
@@ -5717,8 +5717,8 @@
       "mcUsername": "MinosChampion",
       "discordUsername": "ettepetet",
       "elo": 1475,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "573": {
@@ -5727,8 +5727,8 @@
       "mcUsername": "AlfieDxniels",
       "discordUsername": "alfiedxniels",
       "elo": 702,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "574": {
@@ -5737,8 +5737,8 @@
       "mcUsername": "raddlez",
       "discordUsername": "raddles",
       "elo": 1423,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "575": {
@@ -5747,8 +5747,8 @@
       "mcUsername": "fytratey",
       "discordUsername": "fytratey",
       "elo": 1114,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "576": {
@@ -5757,8 +5757,8 @@
       "mcUsername": "spesium",
       "discordUsername": "spesium_",
       "elo": 1428,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "577": {
@@ -5767,8 +5767,8 @@
       "mcUsername": "Luisyun",
       "discordUsername": "luisyun",
       "elo": 889,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "578": {
@@ -5847,8 +5847,8 @@
       "mcUsername": "PaketniyMaster",
       "discordUsername": "narkomenvoven",
       "elo": 1005,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "586": {
@@ -5877,8 +5877,8 @@
       "mcUsername": "Bonaparte",
       "discordUsername": "prostitution",
       "elo": 839,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "589": {
@@ -5887,8 +5887,8 @@
       "mcUsername": "Chinxop",
       "discordUsername": "chinxop",
       "elo": 1311,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "590": {
@@ -5917,8 +5917,8 @@
       "mcUsername": "phxc",
       "discordUsername": "_andrew.exe",
       "elo": 1651,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "593": {
@@ -5937,8 +5937,8 @@
       "mcUsername": "rhythm700Live",
       "discordUsername": "rhythm700sicklylive",
       "elo": 1311,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "595": {
@@ -5957,8 +5957,8 @@
       "mcUsername": "NokeyDokey",
       "discordUsername": "nokeydokeyyy",
       "elo": 1624,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "597": {
@@ -5966,9 +5966,9 @@
       "displayName": "NeoR",
       "mcUsername": "NeoR_",
       "discordUsername": "neor1337",
-      "elo": 836,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 855,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "598": {
@@ -5977,8 +5977,8 @@
       "mcUsername": "12pk",
       "discordUsername": "forkliftcertified13",
       "elo": 1333,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "599": {
@@ -5997,8 +5997,8 @@
       "mcUsername": "raheemm",
       "discordUsername": "rraheemm",
       "elo": 1396,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "601": {
@@ -6007,8 +6007,8 @@
       "mcUsername": "Madoosu",
       "discordUsername": "madofps",
       "elo": 1727,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "602": {
@@ -6037,8 +6037,8 @@
       "mcUsername": "dandannyboy",
       "discordUsername": "dandannyboy",
       "elo": 1962,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "605": {
@@ -6067,8 +6067,8 @@
       "mcUsername": "tommorerow",
       "discordUsername": "tommorerow",
       "elo": 1895,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "608": {
@@ -6087,8 +6087,8 @@
       "mcUsername": "rtcrhino",
       "discordUsername": "rtcrhyno",
       "elo": 1023,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "610": {
@@ -6097,8 +6097,8 @@
       "mcUsername": "WookieThePookie",
       "discordUsername": "wookie632",
       "elo": 1156,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "611": {
@@ -6127,8 +6127,8 @@
       "mcUsername": "Pandaboy200920",
       "discordUsername": "threejerseys",
       "elo": 728,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "614": {
@@ -6137,8 +6137,8 @@
       "mcUsername": "SheepAreFine",
       "discordUsername": "sheeparefine",
       "elo": 1438,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "615": {
@@ -6157,8 +6157,8 @@
       "mcUsername": "drx6",
       "discordUsername": "draconix",
       "elo": 1989,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "617": {
@@ -6177,8 +6177,8 @@
       "mcUsername": "supercells",
       "discordUsername": ".supercells",
       "elo": 727,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "619": {
@@ -6207,8 +6207,8 @@
       "mcUsername": "Cslammer2012",
       "discordUsername": "cslam",
       "elo": 1321,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "622": {
@@ -6217,8 +6217,8 @@
       "mcUsername": "Nopeslope",
       "discordUsername": "nopeslope",
       "elo": 1397,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "623": {
@@ -6227,8 +6227,8 @@
       "mcUsername": "ukkq",
       "discordUsername": "emshanoff",
       "elo": 1035,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "624": {
@@ -6247,8 +6247,8 @@
       "mcUsername": "expellfar",
       "discordUsername": "expellfar",
       "elo": 1438,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "626": {
@@ -6257,8 +6257,8 @@
       "mcUsername": "xagongd",
       "discordUsername": "megaxlikesquan",
       "elo": 1106,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "627": {
@@ -6267,8 +6267,8 @@
       "mcUsername": "Failurism",
       "discordUsername": "many_blocks",
       "elo": 1302,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "628": {
@@ -6276,9 +6276,9 @@
       "displayName": "Denful3",
       "mcUsername": "Denful3",
       "discordUsername": "denful3",
-      "elo": 1049,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1029,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "629": {
@@ -6297,8 +6297,8 @@
       "mcUsername": "qxuse",
       "discordUsername": "qxuseless",
       "elo": 1614,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "631": {
@@ -6317,8 +6317,8 @@
       "mcUsername": "portalmg",
       "discordUsername": "portalmg",
       "elo": 770,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "633": {
@@ -6327,8 +6327,8 @@
       "mcUsername": "AveryCello",
       "discordUsername": "averycello",
       "elo": 1116,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "634": {
@@ -6347,8 +6347,8 @@
       "mcUsername": "LeBabouin30",
       "discordUsername": "eliottg13",
       "elo": 1361,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "636": {
@@ -6357,8 +6357,8 @@
       "mcUsername": "myferret8myrat",
       "discordUsername": "myferret8myrat",
       "elo": 1065,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "637": {
@@ -6367,8 +6367,8 @@
       "mcUsername": "SolaceonX",
       "discordUsername": "solaceoneddy",
       "elo": 1161,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "638": {
@@ -6377,8 +6377,8 @@
       "mcUsername": "UnOr1ginalName",
       "discordUsername": "unor1ginalname",
       "elo": 817,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "639": {
@@ -6397,8 +6397,8 @@
       "mcUsername": "roobley",
       "discordUsername": "roobley",
       "elo": 1652,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "641": {
@@ -6407,8 +6407,8 @@
       "mcUsername": "Palestinianmelon",
       "discordUsername": "bringerofwrath",
       "elo": 1303,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "642": {
@@ -6447,8 +6447,8 @@
       "mcUsername": "yubbawubba8",
       "discordUsername": "bruhface9000",
       "elo": 1616,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "646": {
@@ -6457,8 +6457,8 @@
       "mcUsername": "Sinid13",
       "discordUsername": "xanaia69",
       "elo": 1058,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "647": {
@@ -6467,8 +6467,8 @@
       "mcUsername": "Sammy_JP",
       "discordUsername": "sammy314",
       "elo": 1400,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "648": {
@@ -6476,9 +6476,9 @@
       "displayName": "Richi",
       "mcUsername": "ElRichi",
       "discordUsername": "elrichi",
-      "elo": 1672,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1654,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "649": {
@@ -6487,8 +6487,8 @@
       "mcUsername": "_Joshuaar",
       "discordUsername": "thebluetoo",
       "elo": 1025,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "650": {
@@ -6517,8 +6517,8 @@
       "mcUsername": "P3n9uin",
       "discordUsername": "p3n9uin",
       "elo": 1689,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "653": {
@@ -6526,9 +6526,9 @@
       "displayName": "Jakkeboy",
       "mcUsername": "jakkeboy3651",
       "discordUsername": "jakkeboy",
-      "elo": 1476,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1498,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "654": {
@@ -6537,8 +6537,8 @@
       "mcUsername": "ness_19",
       "discordUsername": "ness1901",
       "elo": 414,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "655": {
@@ -6557,8 +6557,8 @@
       "mcUsername": "remora__",
       "discordUsername": "remora24",
       "elo": 1662,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "657": {
@@ -6567,8 +6567,8 @@
       "mcUsername": "Bemoji",
       "discordUsername": "bemoj1",
       "elo": 710,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "658": {
@@ -6577,8 +6577,8 @@
       "mcUsername": "tabsmag",
       "discordUsername": "tabsmag",
       "elo": 1121,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "659": {
@@ -6587,8 +6587,8 @@
       "mcUsername": "VampishWheat",
       "discordUsername": "vampishwheat943",
       "elo": 1776,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "660": {
@@ -6597,8 +6597,8 @@
       "mcUsername": "CoyRhyme",
       "discordUsername": "coyrhyme",
       "elo": 1078,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "661": {
@@ -6606,9 +6606,9 @@
       "displayName": "Senkunal",
       "mcUsername": "Senkunal",
       "discordUsername": "kunal360",
-      "elo": 1396,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1415,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "662": {
@@ -6627,8 +6627,8 @@
       "mcUsername": "Pancakeman143",
       "discordUsername": "slowpelican",
       "elo": 1452,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "664": {
@@ -6637,8 +6637,8 @@
       "mcUsername": "TheRedpool",
       "discordUsername": "the_redpool",
       "elo": 403,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "665": {
@@ -6657,8 +6657,8 @@
       "mcUsername": "clairofangirl",
       "discordUsername": "mariascorpse",
       "elo": 1475,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "667": {
@@ -6667,8 +6667,8 @@
       "mcUsername": "HufterL",
       "discordUsername": "hufterl",
       "elo": 1468,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "668": {
@@ -6677,8 +6677,8 @@
       "mcUsername": "Limeling",
       "discordUsername": "cards_321",
       "elo": 1166,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "669": {
@@ -6707,8 +6707,8 @@
       "mcUsername": "MeliBelly8301",
       "discordUsername": "melybelli",
       "elo": 809,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "672": {
@@ -6727,8 +6727,8 @@
       "mcUsername": "IronHammer269",
       "discordUsername": "ir0nhamm3r",
       "elo": 1331,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "674": {
@@ -6747,8 +6747,8 @@
       "mcUsername": "oDaksh",
       "discordUsername": "birthdayarcdaksh_123",
       "elo": 1438,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "676": {
@@ -6757,8 +6757,8 @@
       "mcUsername": "FazeBlaze",
       "discordUsername": "gmaer_",
       "elo": 1151,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "677": {
@@ -6767,8 +6767,8 @@
       "mcUsername": "dionle",
       "discordUsername": "leoooooooooooooooooooooooooooo",
       "elo": 1055,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "678": {
@@ -6777,8 +6777,8 @@
       "mcUsername": "GL0riousKingGojo",
       "discordUsername": "arcticallee",
       "elo": 1300,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "679": {
@@ -6807,8 +6807,8 @@
       "mcUsername": "meowmeow888",
       "discordUsername": "meow_8_meow",
       "elo": 1016,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "682": {
@@ -6817,8 +6817,8 @@
       "mcUsername": "Center_mass",
       "discordUsername": "julius.03",
       "elo": 1445,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "683": {
@@ -6847,8 +6847,8 @@
       "mcUsername": "andysh1sells",
       "discordUsername": "andyshizells",
       "elo": 1405,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "686": {
@@ -6877,8 +6877,8 @@
       "mcUsername": "simghst",
       "discordUsername": "simghst",
       "elo": 563,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "689": {
@@ -6887,8 +6887,8 @@
       "mcUsername": "landvis",
       "discordUsername": "landvis",
       "elo": 1343,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "690": {
@@ -6897,8 +6897,8 @@
       "mcUsername": "Stuffwithsimon",
       "discordUsername": "stuffwithsimon",
       "elo": 1127,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "691": {
@@ -6917,8 +6917,8 @@
       "mcUsername": "Ilikepie04",
       "discordUsername": "xtmdlk",
       "elo": 1072,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "693": {
@@ -6927,8 +6927,8 @@
       "mcUsername": "Pjoes",
       "discordUsername": "pjoes",
       "elo": 1633,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "694": {
@@ -6937,8 +6937,8 @@
       "mcUsername": "Zound_",
       "discordUsername": "zound",
       "elo": 1143,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "695": {
@@ -6967,8 +6967,8 @@
       "mcUsername": "Uranic",
       "discordUsername": "uranicc",
       "elo": 865,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "698": {
@@ -6997,8 +6997,8 @@
       "mcUsername": "maitrecraft1234",
       "discordUsername": "maitrecraft1234",
       "elo": 1644,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "701": {
@@ -7017,8 +7017,8 @@
       "mcUsername": "lumeh_",
       "discordUsername": "lumeh.",
       "elo": 1989,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "703": {
@@ -7037,8 +7037,8 @@
       "mcUsername": "RaptorDuck",
       "discordUsername": "raptorduck",
       "elo": 838,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "705": {
@@ -7047,8 +7047,8 @@
       "mcUsername": "Not_Jaxxon",
       "discordUsername": "notjaxxongaming",
       "elo": 1123,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "706": {
@@ -7066,9 +7066,9 @@
       "displayName": "Ailuro",
       "mcUsername": "Ailurro",
       "discordUsername": "ailurro27",
-      "elo": 1128,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1147,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "708": {
@@ -7087,8 +7087,8 @@
       "mcUsername": "Henen_",
       "discordUsername": "nothenen",
       "elo": 1345,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "710": {
@@ -7097,8 +7097,8 @@
       "mcUsername": "puggoboi",
       "discordUsername": "puggoboi",
       "elo": 1368,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "711": {
@@ -7127,8 +7127,8 @@
       "mcUsername": "Trout__",
       "discordUsername": "trunt69",
       "elo": 1016,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "714": {
@@ -7137,8 +7137,8 @@
       "mcUsername": "tribys_",
       "discordUsername": "tribysus",
       "elo": 1008,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "715": {
@@ -7147,8 +7147,8 @@
       "mcUsername": "alexchoo",
       "discordUsername": "alexchoo",
       "elo": 1600,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "716": {
@@ -7177,8 +7177,8 @@
       "mcUsername": "furk1e",
       "discordUsername": "furk1e",
       "elo": 1686,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "719": {
@@ -7187,8 +7187,8 @@
       "mcUsername": "90Tom",
       "discordUsername": "90tom",
       "elo": 1934,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "720": {
@@ -7227,8 +7227,8 @@
       "mcUsername": "Pykesel",
       "discordUsername": "pyke_",
       "elo": 1180,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "724": {
@@ -7237,8 +7237,8 @@
       "mcUsername": "sanjinhu",
       "discordUsername": "sanjinhu",
       "elo": 1775,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "725": {
@@ -7247,8 +7247,8 @@
       "mcUsername": "nyachloe",
       "discordUsername": "nyaachloe",
       "elo": 1994,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "726": {
@@ -7256,9 +7256,9 @@
       "displayName": "Certvial",
       "mcUsername": "Certvial",
       "discordUsername": "certvial",
-      "elo": 1021,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1042,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "727": {
@@ -7267,8 +7267,8 @@
       "mcUsername": "BompkinFTW",
       "discordUsername": "bompkin",
       "elo": 1750,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "728": {
@@ -7286,9 +7286,9 @@
       "displayName": "Krake",
       "mcUsername": "Krake",
       "discordUsername": "krakeslps",
-      "elo": 1150,
-      "tier": "emerald",
-      "color": "#34D399",
+      "elo": 1170,
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "730": {
@@ -7317,8 +7317,8 @@
       "mcUsername": "Artem240kmpeek",
       "discordUsername": "artemtoper",
       "elo": 1708,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "733": {
@@ -7327,8 +7327,8 @@
       "mcUsername": "brenana__",
       "discordUsername": "brennan_0",
       "elo": 1095,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "734": {
@@ -7337,8 +7337,8 @@
       "mcUsername": "Redos_s",
       "discordUsername": "redos_",
       "elo": 1311,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "735": {
@@ -7377,8 +7377,8 @@
       "mcUsername": "kehler",
       "discordUsername": "kehler",
       "elo": 1129,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "739": {
@@ -7387,8 +7387,8 @@
       "mcUsername": "sjauwn",
       "discordUsername": "sjauwn",
       "elo": 1641,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "740": {
@@ -7417,8 +7417,8 @@
       "mcUsername": "N0tJim",
       "discordUsername": "n0tjim",
       "elo": 1480,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "743": {
@@ -7427,8 +7427,8 @@
       "mcUsername": "Termii59",
       "discordUsername": "termii8218",
       "elo": 855,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "744": {
@@ -7437,8 +7437,8 @@
       "mcUsername": "IPlayTheTuba",
       "discordUsername": "gray1718",
       "elo": 1301,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "745": {
@@ -7457,8 +7457,8 @@
       "mcUsername": "ShinyN_",
       "discordUsername": "shinyn",
       "elo": 854,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "747": {
@@ -7467,8 +7467,8 @@
       "mcUsername": "damlet",
       "discordUsername": "damlet_",
       "elo": 1054,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "748": {
@@ -7477,8 +7477,8 @@
       "mcUsername": "Autumn_Variation",
       "discordUsername": "autumnvariation",
       "elo": 741,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "749": {
@@ -7487,8 +7487,8 @@
       "mcUsername": "MatrixMation",
       "discordUsername": "matrixmation",
       "elo": 1099,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "750": {
@@ -7497,8 +7497,8 @@
       "mcUsername": "Potatifier",
       "discordUsername": "potatifier",
       "elo": 1745,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "751": {
@@ -7517,8 +7517,8 @@
       "mcUsername": "FreezingFyre",
       "discordUsername": "prose",
       "elo": 1099,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "753": {
@@ -7526,9 +7526,9 @@
       "displayName": "Joomz",
       "mcUsername": "JoomzMonkey",
       "discordUsername": "jayson____",
-      "elo": 1880,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1863,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "754": {
@@ -7547,8 +7547,8 @@
       "mcUsername": "tebor",
       "discordUsername": "trevor.rar",
       "elo": 1340,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "756": {
@@ -7557,8 +7557,8 @@
       "mcUsername": "QwertyYou",
       "discordUsername": "qwertyyou",
       "elo": 1371,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "757": {
@@ -7567,8 +7567,8 @@
       "mcUsername": "velpux",
       "discordUsername": "letterboxd.com",
       "elo": 1133,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "758": {
@@ -7577,8 +7577,8 @@
       "mcUsername": "sticmys",
       "discordUsername": "ken10live",
       "elo": 560,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "759": {
@@ -7597,8 +7597,8 @@
       "mcUsername": "_Trl_",
       "discordUsername": "trl24",
       "elo": 1127,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "761": {
@@ -7627,8 +7627,8 @@
       "mcUsername": "awsome3",
       "discordUsername": "awsome01",
       "elo": 1340,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "764": {
@@ -7647,8 +7647,8 @@
       "mcUsername": "TUCNOTA",
       "discordUsername": "panhranolka",
       "elo": 1105,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "766": {
@@ -7657,8 +7657,8 @@
       "mcUsername": "TwitchyW",
       "discordUsername": "twitchyw",
       "elo": 1094,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "767": {
@@ -7666,9 +7666,9 @@
       "displayName": "CARLOMAN",
       "mcUsername": "SIGMACARLOMAN",
       "discordUsername": "carl_vaz_",
-      "elo": 1372,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1353,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "768": {
@@ -7677,8 +7677,8 @@
       "mcUsername": "swoss_",
       "discordUsername": "sswoss_chez",
       "elo": 848,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "769": {
@@ -7706,9 +7706,9 @@
       "displayName": "OutrageousJosh",
       "mcUsername": "outrag",
       "discordUsername": "outrageousjosh",
-      "elo": 1677,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1658,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "772": {
@@ -7717,8 +7717,8 @@
       "mcUsername": "CorsicaAlyssa",
       "discordUsername": "corsicaalyssa",
       "elo": 1353,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "773": {
@@ -7737,8 +7737,8 @@
       "mcUsername": "sql_enjoyer",
       "discordUsername": "sean_cb",
       "elo": 701,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "775": {
@@ -7767,8 +7767,8 @@
       "mcUsername": "snorlaxirl_",
       "discordUsername": "snorlaxinreallife",
       "elo": 1391,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "778": {
@@ -7777,8 +7777,8 @@
       "mcUsername": "megafalcons",
       "discordUsername": "megafalcons",
       "elo": 1168,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "779": {
@@ -7797,8 +7797,8 @@
       "mcUsername": "Shalomanon",
       "discordUsername": "shalomanon",
       "elo": 1068,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "781": {
@@ -7807,8 +7807,8 @@
       "mcUsername": "Spiget",
       "discordUsername": "jyguy",
       "elo": 1364,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "782": {
@@ -7817,8 +7817,8 @@
       "mcUsername": "spyQT",
       "discordUsername": "spyqt_",
       "elo": 1145,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "783": {
@@ -7836,7 +7836,7 @@
       "displayName": "Gabushipa",
       "mcUsername": "Gabushipa",
       "discordUsername": "gabushipa",
-      "elo": 1244,
+      "elo": 1223,
       "tier": "emerald",
       "color": "#34D399",
       "found": true
@@ -7846,9 +7846,9 @@
       "displayName": "Dasumato",
       "mcUsername": "Dasumato",
       "discordUsername": "dasumato",
-      "elo": 1359,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "elo": 1337,
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "786": {
@@ -7927,8 +7927,8 @@
       "mcUsername": "Goreay",
       "discordUsername": "goreay_12",
       "elo": 1324,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "794": {
@@ -7957,8 +7957,8 @@
       "mcUsername": "_Weeoo",
       "discordUsername": ".weeoo",
       "elo": 1319,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "797": {
@@ -7967,8 +7967,8 @@
       "mcUsername": "amcguirk03",
       "discordUsername": "a_mcguirk",
       "elo": 798,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "798": {
@@ -7987,8 +7987,8 @@
       "mcUsername": "Aplexia",
       "discordUsername": "apl3xia",
       "elo": 872,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "800": {
@@ -7997,8 +7997,8 @@
       "mcUsername": "yesh1l",
       "discordUsername": "yesh1l",
       "elo": 1328,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "801": {
@@ -8017,8 +8017,8 @@
       "mcUsername": "swtl1",
       "discordUsername": "swtl",
       "elo": 1018,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "803": {
@@ -8027,8 +8027,8 @@
       "mcUsername": "Tompas_",
       "discordUsername": "tompas",
       "elo": 1734,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "804": {
@@ -8037,8 +8037,8 @@
       "mcUsername": "Meowfasa",
       "discordUsername": "kingmeowfasa",
       "elo": 1089,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "805": {
@@ -8047,8 +8047,8 @@
       "mcUsername": "Enluna__",
       "discordUsername": "enluna__",
       "elo": 730,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "806": {
@@ -8077,8 +8077,8 @@
       "mcUsername": "Adaik",
       "discordUsername": "adaik",
       "elo": 1313,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "809": {
@@ -8086,7 +8086,7 @@
       "displayName": "romuxii",
       "mcUsername": "romuxii",
       "discordUsername": "romuxii",
-      "elo": 2216,
+      "elo": 2199,
       "tier": "netherite",
       "color": "#9333EA",
       "found": true
@@ -8107,8 +8107,8 @@
       "mcUsername": "carinanebula25",
       "discordUsername": "sunnyboyl25",
       "elo": 1158,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "812": {
@@ -8116,30 +8116,30 @@
       "displayName": "dwaqee1",
       "mcUsername": "dwaqee1",
       "discordUsername": "silence2471",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1311,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "813": {
       "seed": 813,
       "displayName": "doqvii",
       "mcUsername": "Doqvii",
       "discordUsername": "doqvii",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1371,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "814": {
       "seed": 814,
       "displayName": "Evbo",
       "mcUsername": "Evbo_",
       "discordUsername": "evbo",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1302,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "815": {
       "seed": 815,
@@ -8149,97 +8149,97 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "816": {
       "seed": 816,
       "displayName": "MJ",
       "mcUsername": "Mdm_J",
       "discordUsername": ".jeannie_du_lamp",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 376,
+      "tier": "coal",
+      "color": "#9CA3AF",
+      "found": true
     },
     "817": {
       "seed": 817,
       "displayName": "Nauj",
       "mcUsername": "naujconlive",
       "discordUsername": "naujconlive",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1091,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "818": {
       "seed": 818,
       "displayName": "Mac",
       "mcUsername": "wmacc",
       "discordUsername": "wmaccc.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1508,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "819": {
       "seed": 819,
       "displayName": "tealeafy",
       "mcUsername": "tealeafy",
       "discordUsername": "tealeafy.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1310,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "820": {
       "seed": 820,
       "displayName": "derp",
       "mcUsername": "derpingderp",
       "discordUsername": "derpings",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1603,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "821": {
       "seed": 821,
       "displayName": "Mrboo_boo9",
       "mcUsername": "mrboo_boo9",
       "discordUsername": "mrbooboo9",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1106,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "822": {
       "seed": 822,
       "displayName": "zeno",
       "mcUsername": "zenosprout",
       "discordUsername": "zenosprout",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1219,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "823": {
       "seed": 823,
       "displayName": "Kierros",
       "mcUsername": "Kierros",
       "discordUsername": "kierros",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1491,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "824": {
       "seed": 824,
       "displayName": "Aquacorde",
       "mcUsername": "Aquacorde",
       "discordUsername": "aquacorde",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2314,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "825": {
       "seed": 825,
@@ -8249,67 +8249,67 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "826": {
       "seed": 826,
       "displayName": "Spirit",
       "mcUsername": "spqrit",
       "discordUsername": "biuey",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 973,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "827": {
       "seed": 827,
       "displayName": "Papalo007",
       "mcUsername": "Papalo007",
       "discordUsername": "papalo007",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1042,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "828": {
       "seed": 828,
       "displayName": "dwoh",
       "mcUsername": "dwoh",
       "discordUsername": "dwoh",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1921,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "829": {
       "seed": 829,
       "displayName": "skycrab",
       "mcUsername": "Pinne",
       "discordUsername": "skycrab",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2166,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "830": {
       "seed": 830,
       "displayName": "Makke",
       "mcUsername": "_Makke",
       "discordUsername": "makk3e",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1706,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "831": {
       "seed": 831,
       "displayName": "lottsy",
       "mcUsername": "lottsy_",
       "discordUsername": "lottsy",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1641,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "832": {
       "seed": 832,
@@ -8319,367 +8319,367 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "833": {
       "seed": 833,
       "displayName": "rouxzzcfop",
       "mcUsername": "rouxzzcfop",
       "discordUsername": "popcorn3",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1344,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "834": {
       "seed": 834,
       "displayName": "ananaciya",
       "mcUsername": "Ananaciya",
       "discordUsername": "ananaciya",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 477,
+      "tier": "coal",
+      "color": "#9CA3AF",
+      "found": true
     },
     "835": {
       "seed": 835,
       "displayName": "siddharth_k10",
       "mcUsername": "siddharth_k10",
       "discordUsername": "siddu.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 837,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "836": {
       "seed": 836,
       "displayName": "Lux",
       "mcUsername": "Luxvored",
       "discordUsername": "luxvored",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1578,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "837": {
       "seed": 837,
       "displayName": "SnoW",
       "mcUsername": "SnoWSt0rm_",
       "discordUsername": "snowst0rm_",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 810,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "838": {
       "seed": 838,
       "displayName": "12BrainCells",
       "mcUsername": "12braincells",
       "discordUsername": "_3braincells",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1548,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "839": {
       "seed": 839,
       "displayName": "rekrap2",
       "mcUsername": "rekrap2",
       "discordUsername": "rekrap2",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2037,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "840": {
       "seed": 840,
       "displayName": "bid",
       "mcUsername": "bbiddd",
       "discordUsername": "bbiddd",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2260,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "841": {
       "seed": 841,
       "displayName": "Bunny",
       "mcUsername": "Flammable_Bunny",
       "discordUsername": "flammablebunny",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 913,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "842": {
       "seed": 842,
       "displayName": "Kargere",
       "mcUsername": "Kargere",
       "discordUsername": "kargere",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1249,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "843": {
       "seed": 843,
       "displayName": "Koereit",
       "mcUsername": "Koereit",
       "discordUsername": "koereit",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1806,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "844": {
       "seed": 844,
       "displayName": "zer0ky0",
       "mcUsername": "zer0ky0",
       "discordUsername": "zer0ky0",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 908,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "845": {
       "seed": 845,
       "displayName": "Starchomper",
       "mcUsername": "Starchomper",
       "discordUsername": "starchomper",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1632,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "846": {
       "seed": 846,
       "displayName": "kater",
       "mcUsername": "K4ter",
       "discordUsername": "k4terr",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1609,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "847": {
       "seed": 847,
       "displayName": "dunceduck",
       "mcUsername": "DunceDuck",
       "discordUsername": "dunceduck",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1270,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "848": {
       "seed": 848,
       "displayName": "Proz",
       "mcUsername": "Proz__",
       "discordUsername": "prozgamer",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 957,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "849": {
       "seed": 849,
       "displayName": "Arnex",
       "mcUsername": "arnexlol",
       "discordUsername": "arnex.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1662,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "850": {
       "seed": 850,
       "displayName": "PebeteDeSame",
       "mcUsername": "pebetedesame",
       "discordUsername": "pebetedesame",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 836,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "851": {
       "seed": 851,
       "displayName": "NoahTheZy",
       "mcUsername": "NoahTheZy",
       "discordUsername": "ntzy.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1029,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "852": {
       "seed": 852,
       "displayName": "xellish",
       "mcUsername": "xellish",
       "discordUsername": "xellish",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1661,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "853": {
       "seed": 853,
       "displayName": "goopli",
       "mcUsername": "goopli",
       "discordUsername": "goopli",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1144,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "854": {
       "seed": 854,
       "displayName": "CxrtxR",
       "mcUsername": "CxrtxR",
       "discordUsername": "cxrtxr",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1850,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "855": {
       "seed": 855,
       "displayName": "marrow",
       "mcUsername": "marr0w_",
       "discordUsername": "mr.marrow.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1196,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "856": {
       "seed": 856,
       "displayName": "paul",
       "mcUsername": "paukll",
       "discordUsername": "paukl",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2052,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "857": {
       "seed": 857,
       "displayName": "Eibezukunft",
       "mcUsername": "Eibezukunft",
       "discordUsername": "eibezukunft",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1375,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "858": {
       "seed": 858,
       "displayName": "rcd__11",
       "mcUsername": "rcd__11",
       "discordUsername": "cardo11",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1014,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "859": {
       "seed": 859,
       "displayName": "Cuddles",
       "mcUsername": "purrr_cuddlesss",
       "discordUsername": "meowcuddless",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1363,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "860": {
       "seed": 860,
       "displayName": "lovelyy",
       "mcUsername": "pizx",
       "discordUsername": "0fsv",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1808,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "861": {
       "seed": 861,
       "displayName": "Akshay",
       "mcUsername": "Akshxy",
       "discordUsername": "akshay6256",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 836,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "862": {
       "seed": 862,
       "displayName": "Whis or Whislore",
       "mcUsername": "Whislored",
       "discordUsername": "whislored",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1067,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "863": {
       "seed": 863,
       "displayName": "Red Lunatic",
       "mcUsername": "RedLunatic",
       "discordUsername": "8065",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1095,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "864": {
       "seed": 864,
       "displayName": "Brightlmom",
       "mcUsername": "Brightlmom",
       "discordUsername": "bright97845",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1558,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "865": {
       "seed": 865,
       "displayName": "Insanity",
       "mcUsername": "insanity3829",
       "discordUsername": "1nsanity3829",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1333,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "866": {
       "seed": 866,
       "displayName": "mobina",
       "mcUsername": "ueben",
       "discordUsername": "oesterreich",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1216,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "867": {
       "seed": 867,
       "displayName": "Dolphin",
       "mcUsername": "dowophin",
       "discordUsername": ".dolphin_",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1763,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "868": {
       "seed": 868,
       "displayName": "ffz",
       "mcUsername": "Gho",
       "discordUsername": "ffz.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1698,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "869": {
       "seed": 869,
@@ -8689,167 +8689,167 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "870": {
       "seed": 870,
       "displayName": "fobyr",
       "mcUsername": "fobyr",
       "discordUsername": "noeaou",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1383,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "871": {
       "seed": 871,
       "displayName": "CGQ",
       "mcUsername": "CGQ_",
       "discordUsername": "cgq",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1300,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "872": {
       "seed": 872,
       "displayName": "FirstGuy",
       "mcUsername": "FIrstGuy",
       "discordUsername": "thefirstguy",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 868,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "873": {
       "seed": 873,
       "displayName": "skylewl",
       "mcUsername": "skylewl",
       "discordUsername": "skylewl",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1947,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "874": {
       "seed": 874,
       "displayName": "walter_3",
       "mcUsername": "walter_3",
       "discordUsername": "pizza15",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 555,
+      "tier": "coal",
+      "color": "#9CA3AF",
+      "found": true
     },
     "875": {
       "seed": 875,
       "displayName": "ivyosun",
       "mcUsername": "ivyosun",
       "discordUsername": "candedgarcia",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1218,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "876": {
       "seed": 876,
       "displayName": "Khart",
       "mcUsername": "Kh4rt",
       "discordUsername": "khart",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 660,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "877": {
       "seed": 877,
       "displayName": "Samioh",
       "mcUsername": "samioh",
       "discordUsername": "profoak0117",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1082,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "878": {
       "seed": 878,
       "displayName": "I_Reidman",
       "mcUsername": "I_Reidman",
       "discordUsername": "i_reidman",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1387,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "879": {
       "seed": 879,
       "displayName": "erez43",
       "mcUsername": "EREZKMC",
       "discordUsername": "erz123._43469",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 620,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "880": {
       "seed": 880,
       "displayName": "Vintex0",
       "mcUsername": "Vintex0",
       "discordUsername": "dasaniiiii",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1639,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "881": {
       "seed": 881,
       "displayName": "Coreybirdo",
       "mcUsername": "Coreybird",
       "discordUsername": "coreybirdo",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1515,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "882": {
       "seed": 882,
       "displayName": "profiht",
       "mcUsername": "Profiht",
       "discordUsername": "profiht",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1507,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "883": {
       "seed": 883,
       "displayName": "Trojaneq",
       "mcUsername": "Trojaneq",
       "discordUsername": "trojaneq",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1132,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "884": {
       "seed": 884,
       "displayName": "loodlow",
       "mcUsername": "loodlow",
       "discordUsername": "loodlow",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2119,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "885": {
       "seed": 885,
       "displayName": "yeopgihoney",
       "mcUsername": "yeopgihoney",
       "discordUsername": "yeopgihoney",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2149,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "886": {
       "seed": 886,
@@ -8859,167 +8859,167 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "887": {
       "seed": 887,
       "displayName": "ANJOUU",
       "mcUsername": "ANJOUU",
       "discordUsername": "anjouu",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 2255,
+      "tier": "netherite",
+      "color": "#9333EA",
+      "found": true
     },
     "888": {
       "seed": 888,
       "displayName": "Sponge",
       "mcUsername": "SpongeGaming",
       "discordUsername": "sponge21",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1020,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "889": {
       "seed": 889,
       "displayName": "Awa",
       "mcUsername": "AwaDeFructus",
       "discordUsername": "awadefructus",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1316,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "890": {
       "seed": 890,
       "displayName": "SpectrumThing",
       "mcUsername": "SpectrumThing",
       "discordUsername": "spectrum_thing",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1392,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "891": {
       "seed": 891,
       "displayName": "AvisMCSR",
       "mcUsername": "Technobladefan86",
       "discordUsername": "siva_kushal",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 695,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "892": {
       "seed": 892,
       "displayName": "TheRedTiger",
       "mcUsername": "hammergeil",
       "discordUsername": "theredtiger",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1208,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "893": {
       "seed": 893,
       "displayName": "iCac2s",
       "mcUsername": "iCac2s",
       "discordUsername": "cac2s",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1377,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "894": {
       "seed": 894,
       "displayName": "WafflingWaffler",
       "mcUsername": "StackzOfBlocks",
       "discordUsername": "wafflingwaffler_",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 732,
+      "tier": "iron",
+      "color": "#E5E7EB",
+      "found": true
     },
     "895": {
       "seed": 895,
       "displayName": "37",
       "mcUsername": "3x7en",
       "discordUsername": "3x7en",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1384,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "896": {
       "seed": 896,
       "displayName": "Karmeq",
       "mcUsername": "karmeq",
       "discordUsername": "karmeq",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1510,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "897": {
       "seed": 897,
       "displayName": "Ashe",
       "mcUsername": "ashe_is_op",
       "discordUsername": "asheisop",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1149,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "898": {
       "seed": 898,
       "displayName": "vaedish",
       "mcUsername": "vaedish",
       "discordUsername": "vaedish",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1089,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "899": {
       "seed": 899,
       "displayName": "WaterSwordsman",
       "mcUsername": "WaterSwordsman",
       "discordUsername": "waterswordsman",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1327,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "900": {
       "seed": 900,
       "displayName": "evni",
       "mcUsername": "violet_veil",
       "discordUsername": "evni.",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1211,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "901": {
       "seed": 901,
       "displayName": "raylucks",
       "mcUsername": "raylucks",
       "discordUsername": "raylux",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1512,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "902": {
       "seed": 902,
       "displayName": "crazyguy1908",
       "mcUsername": "crazyguy1908",
       "discordUsername": "crazyguy1908",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1500,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "903": {
       "seed": 903,
@@ -9029,37 +9029,37 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "904": {
       "seed": 904,
       "displayName": "CKLeo",
       "mcUsername": "CKLeo_",
       "discordUsername": "ckleo",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1561,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "905": {
       "seed": 905,
       "displayName": "pizzatre",
       "mcUsername": "PizzaTre",
       "discordUsername": "pizzatre",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1134,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "906": {
       "seed": 906,
       "displayName": "Caqen",
       "mcUsername": "Caqen",
       "discordUsername": "caqen",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1723,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "907": {
       "seed": 907,
@@ -9069,7 +9069,7 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "908": {
       "seed": 908,
@@ -9079,37 +9079,37 @@
       "elo": null,
       "tier": "unranked",
       "color": "#555555",
-      "found": false
+      "found": true
     },
     "909": {
       "seed": 909,
       "displayName": "Zakster",
       "mcUsername": "The_Zakster",
       "discordUsername": "thezakster",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1370,
+      "tier": "emerald",
+      "color": "#34D399",
+      "found": true
     },
     "910": {
       "seed": 910,
       "displayName": "Chaos",
       "mcUsername": "oChqos",
       "discordUsername": "chaos4742",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1051,
+      "tier": "gold",
+      "color": "#FBBF24",
+      "found": true
     },
     "911": {
       "seed": 911,
       "displayName": "Contra",
       "mcUsername": "ContraVz",
       "discordUsername": "contravz",
-      "elo": null,
-      "tier": "unranked",
-      "color": "#555555",
-      "found": false
+      "elo": 1978,
+      "tier": "diamond",
+      "color": "#60A5FA",
+      "found": true
     },
     "912": {
       "seed": 912,
@@ -9127,8 +9127,8 @@
       "mcUsername": "Sh1nzu",
       "discordUsername": "sh1nzu",
       "elo": 1118,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "914": {
@@ -9157,8 +9157,8 @@
       "mcUsername": "GraggyGod",
       "discordUsername": "graggygod",
       "elo": 1088,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "917": {
@@ -9166,9 +9166,9 @@
       "displayName": "xootynator",
       "mcUsername": "xootynator",
       "discordUsername": "xootynator",
-      "elo": 858,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "elo": 877,
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "918": {
@@ -9177,8 +9177,8 @@
       "mcUsername": "tangojung",
       "discordUsername": "tanagoooooo",
       "elo": 1082,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "919": {
@@ -9197,8 +9197,8 @@
       "mcUsername": "shah_heet",
       "discordUsername": "shahheet",
       "elo": 1022,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "921": {
@@ -9217,8 +9217,8 @@
       "mcUsername": "kofechashkovich",
       "discordUsername": "kofechashkovich",
       "elo": 477,
-      "tier": "iron",
-      "color": "#E5E7EB",
+      "tier": "coal",
+      "color": "#9CA3AF",
       "found": true
     },
     "923": {
@@ -9247,8 +9247,8 @@
       "mcUsername": "Nataliahaha",
       "discordUsername": "natalia_zajete",
       "elo": 835,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "926": {
@@ -9257,8 +9257,8 @@
       "mcUsername": "benemies",
       "discordUsername": "benemies",
       "elo": 1897,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "927": {
@@ -9267,8 +9267,8 @@
       "mcUsername": "araglus",
       "discordUsername": "araglus",
       "elo": 1116,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "928": {
@@ -9286,7 +9286,7 @@
       "displayName": "7rowl",
       "mcUsername": "7rowl",
       "discordUsername": "7rowl",
-      "elo": 2260,
+      "elo": 2282,
       "tier": "netherite",
       "color": "#9333EA",
       "found": true
@@ -9297,8 +9297,8 @@
       "mcUsername": "wSalt",
       "discordUsername": "salt.crab",
       "elo": 1124,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "931": {
@@ -9306,9 +9306,9 @@
       "displayName": "Welt",
       "mcUsername": "2welt",
       "discordUsername": "imwelt",
-      "elo": 1625,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "elo": 1605,
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "932": {
@@ -9316,7 +9316,7 @@
       "displayName": "vstrid",
       "mcUsername": "v_strid",
       "discordUsername": "v_strid",
-      "elo": 2116,
+      "elo": 2095,
       "tier": "netherite",
       "color": "#9333EA",
       "found": true
@@ -9327,8 +9327,8 @@
       "mcUsername": "TreeIsMyName",
       "discordUsername": "treeismyname",
       "elo": 1182,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "934": {
@@ -9347,8 +9347,8 @@
       "mcUsername": "CallMeBlumi",
       "discordUsername": "callmeblumi",
       "elo": 1807,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     },
     "936": {
@@ -9367,8 +9367,8 @@
       "mcUsername": "Vullord",
       "discordUsername": "vullord",
       "elo": 763,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "938": {
@@ -9387,8 +9387,8 @@
       "mcUsername": "FredTheWreck2",
       "discordUsername": "fredthewreck",
       "elo": 1067,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "940": {
@@ -9397,8 +9397,8 @@
       "mcUsername": "eriklul",
       "discordUsername": "sk1reh",
       "elo": 1165,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "941": {
@@ -9407,8 +9407,8 @@
       "mcUsername": "fireball67_",
       "discordUsername": "fireball67",
       "elo": 1333,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "942": {
@@ -9417,8 +9417,8 @@
       "mcUsername": "PxtchBlack",
       "discordUsername": "slimexxot",
       "elo": 1036,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "943": {
@@ -9437,8 +9437,8 @@
       "mcUsername": "NoLongerMuted",
       "discordUsername": "unamed2024",
       "elo": 1054,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "945": {
@@ -9447,8 +9447,8 @@
       "mcUsername": "King_WolfLIVE",
       "discordUsername": "king_wolf",
       "elo": 727,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "946": {
@@ -9467,8 +9467,8 @@
       "mcUsername": "atrejoe2004",
       "discordUsername": "atrejoe",
       "elo": 1409,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "948": {
@@ -9477,8 +9477,8 @@
       "mcUsername": "Tobetoflipb",
       "discordUsername": "gabe34",
       "elo": 1054,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "949": {
@@ -9487,8 +9487,8 @@
       "mcUsername": "hiegh",
       "discordUsername": "hiegh",
       "elo": 1417,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "950": {
@@ -9497,8 +9497,8 @@
       "mcUsername": "voytasHZ",
       "discordUsername": "voytaz9191",
       "elo": 760,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "951": {
@@ -9507,8 +9507,8 @@
       "mcUsername": "Enryu_43",
       "discordUsername": "ultimatebee",
       "elo": 1367,
-      "tier": "diamond",
-      "color": "#60A5FA",
+      "tier": "emerald",
+      "color": "#34D399",
       "found": true
     },
     "952": {
@@ -9527,8 +9527,8 @@
       "mcUsername": "KorutoColt",
       "discordUsername": "k0ruto",
       "elo": 706,
-      "tier": "gold",
-      "color": "#FBBF24",
+      "tier": "iron",
+      "color": "#E5E7EB",
       "found": true
     },
     "954": {
@@ -9537,8 +9537,8 @@
       "mcUsername": "ellaarue",
       "discordUsername": "ellaarue",
       "elo": 1144,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "955": {
@@ -9547,8 +9547,8 @@
       "mcUsername": "Nata50SK",
       "discordUsername": "nata50sk",
       "elo": 1004,
-      "tier": "emerald",
-      "color": "#34D399",
+      "tier": "gold",
+      "color": "#FBBF24",
       "found": true
     },
     "956": {
@@ -9557,8 +9557,8 @@
       "mcUsername": "QC_SYLVEON_LOVER",
       "discordUsername": "evikt_",
       "elo": 1614,
-      "tier": "netherite",
-      "color": "#9333EA",
+      "tier": "diamond",
+      "color": "#60A5FA",
       "found": true
     }
   }

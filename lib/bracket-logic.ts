@@ -1,9 +1,5 @@
-import type { ProjectedOpponent } from "@/types/player";
+import type { BracketSlot, ProjectedOpponent } from "@/types/player";
 
-// Tournament constants
-// 956 players in a 1024-slot bracket (next power of 2).
-// Seeds 957-1024 are byes. Top seeds face byes in round 1.
-const BRACKET_SIZE = 1024;
 const TOTAL_PLAYERS = 956;
 
 function isBye(seed: number): boolean {
@@ -11,67 +7,77 @@ function isBye(seed: number): boolean {
 }
 
 /**
- * Returns the round-1 opponent seed for a given seed.
- * Standard single-elimination seeding: seed S faces (BRACKET_SIZE + 1 - S).
+ * Builds lookup structures from bracket-slots.json (round 1 entries only).
+ * - slotBySeed: seed → BracketSlot
+ * - seedsByMatch: matchIndex → [seed, seed] (the two players in that R1 match)
  */
-function getRound1Opponent(seed: number): number {
-  return BRACKET_SIZE + 1 - seed;
-}
+function buildLookups(slots: BracketSlot[]): {
+  slotBySeed: Map<number, BracketSlot>;
+  seedsByMatch: Map<number, number[]>;
+} {
+  const slotBySeed = new Map<number, BracketSlot>();
+  const seedsByMatch = new Map<number, number[]>();
 
-/**
- * In a standard bracket, returns which 1-indexed match slot seed S occupies in round R.
- * Match slots are numbered from 1 (top) in each round.
- */
-function getMatchSlot(seed: number, round: number): number {
-  return Math.ceil(seed / Math.pow(2, round - 1));
-}
-
-/**
- * Returns the "best-case" opponent seed for round R (assuming all higher seeds win).
- * For round 2: the opponent is the top seed of the adjacent match in round 1.
- * For round 3: the top seed of the adjacent group of 4 in round 2.
- */
-function getProjectedOpponentForRound(seed: number, round: number): number {
-  const groupSize = Math.pow(2, round);
-  // Which group of `groupSize` does seed S fall into? (1-indexed)
-  const groupIndex = Math.ceil(seed / groupSize);
-  // Is seed S in the first or second half of that group?
-  const posInGroup = seed - (groupIndex - 1) * groupSize; // 1-indexed within group
-  let opponentGroupIndex: number;
-  if (posInGroup <= groupSize / 2) {
-    // S is in the top half → opponent comes from the bottom half of same group
-    opponentGroupIndex = groupIndex * 2; // bottom half's R(round-1) match slot
-  } else {
-    opponentGroupIndex = groupIndex * 2 - 1; // top half
+  for (const slot of slots) {
+    if (slot.round !== 1) continue;
+    slotBySeed.set(slot.seed, slot);
+    const existing = seedsByMatch.get(slot.matchIndex) ?? [];
+    existing.push(slot.seed);
+    seedsByMatch.set(slot.matchIndex, existing);
   }
 
-  // The top seed of that adjacent R1 match (best case opponent)
-  const r1MatchTop = (opponentGroupIndex - 1) * 2 + 1;
-  const topSeedOfOpponent = r1MatchTop; // seed at the top of that match
-  return topSeedOfOpponent;
+  return { slotBySeed, seedsByMatch };
 }
 
-export function getProjectedOpponents(seed: number): ProjectedOpponent[] {
-  const results: ProjectedOpponent[] = [];
+/**
+ * Returns the projected R1/R2/R3 opponents for a given seed,
+ * derived entirely from the actual bracket layout in bracket-slots.json.
+ *
+ * R1: the other player in the same match (exact).
+ * R2: the top seed from the adjacent R1 match (who you'd face if both win).
+ * R3: the top seed from the two R1 matches that feed the adjacent R2 bracket.
+ */
+export function getProjectedOpponents(
+  seed: number,
+  slots: BracketSlot[]
+): ProjectedOpponent[] {
+  const { slotBySeed, seedsByMatch } = buildLookups(slots);
 
-  // Round 1
-  const r1Opp = getRound1Opponent(seed);
-  const r1IsBye = isBye(r1Opp);
-  results.push({ round: 1, opponentSeed: r1Opp, isBye: r1IsBye });
+  const mySlot = slotBySeed.get(seed);
+  if (!mySlot) return [];
 
-  // Round 2
-  const r2OppSeed = getProjectedOpponentForRound(seed, 2);
-  const r2R1Opp = getRound1Opponent(r2OppSeed);
-  // Best-case: r2OppSeed won their R1 match; if their R1 opponent was a bye they auto-advanced
-  const r2ActualOpp = isBye(r2OppSeed) ? r2R1Opp : r2OppSeed;
-  results.push({ round: 2, opponentSeed: r2ActualOpp, isBye: isBye(r2ActualOpp) });
+  const myMatchIdx = mySlot.matchIndex;
 
-  // Round 3
-  const r3OppSeed = getProjectedOpponentForRound(seed, 3);
-  const r3ActualOpp = isBye(r3OppSeed) ? getRound1Opponent(r3OppSeed) : r3OppSeed;
-  results.push({ round: 3, opponentSeed: r3ActualOpp, isBye: isBye(r3ActualOpp) });
+  // --- Round 1 ---
+  const r1Seeds = seedsByMatch.get(myMatchIdx) ?? [];
+  const r1OppSeed = r1Seeds.find((s) => s !== seed) ?? -1;
+  const r1IsBye = r1OppSeed === -1 || isBye(r1OppSeed);
 
-  return results;
+  // --- Round 2 ---
+  // Adjacent R1 match: if my match is odd → adjacent is matchIdx+1; if even → matchIdx-1
+  const adjR1MatchIdx = myMatchIdx % 2 === 1 ? myMatchIdx + 1 : myMatchIdx - 1;
+  const adjR1Seeds = seedsByMatch.get(adjR1MatchIdx) ?? [];
+  // Best-case R2 opponent = top seed (lowest number) in that adjacent match
+  const r2OppSeed = adjR1Seeds.length > 0 ? Math.min(...adjR1Seeds) : -1;
+  const r2IsBye = r2OppSeed === -1 || isBye(r2OppSeed);
+
+  // --- Round 3 ---
+  // My R2 match index: ceil(myMatchIdx / 2)
+  // Adjacent R2 match: if my R2 match is odd → adj is R2+1; if even → R2-1
+  const myR2MatchIdx = Math.ceil(myMatchIdx / 2);
+  const adjR2MatchIdx = myR2MatchIdx % 2 === 1 ? myR2MatchIdx + 1 : myR2MatchIdx - 1;
+  // The two R1 matches that feed the adjacent R2 slot are: adjR2*2-1 and adjR2*2
+  const r3R1MatchA = seedsByMatch.get(adjR2MatchIdx * 2 - 1) ?? [];
+  const r3R1MatchB = seedsByMatch.get(adjR2MatchIdx * 2) ?? [];
+  const r3AllSeeds = [...r3R1MatchA, ...r3R1MatchB];
+  const r3OppSeed = r3AllSeeds.length > 0 ? Math.min(...r3AllSeeds) : -1;
+  const r3IsBye = r3OppSeed === -1 || isBye(r3OppSeed);
+
+  return [
+    { round: 1, opponentSeed: r1OppSeed, isBye: r1IsBye },
+    { round: 2, opponentSeed: r2OppSeed, isBye: r2IsBye },
+    { round: 3, opponentSeed: r3OppSeed, isBye: r3IsBye },
+  ];
 }
 
 /** Returns display label for a round number */

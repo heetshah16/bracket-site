@@ -35,6 +35,12 @@ export interface H2HResult {
   p1Wins: number;
   p2Wins: number;
   totalMatches: number;
+  /** Average finish time in ms for p1 wins (null if no timed wins) */
+  p1AvgTime: number | null;
+  /** Average finish time in ms for p2 wins (null if no timed wins) */
+  p2AvgTime: number | null;
+  /** Number of matches that ended by forfeit */
+  ffCount: number;
   statsUrl: string;
   noData?: boolean;
   cached?: boolean;
