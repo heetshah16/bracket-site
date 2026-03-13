@@ -45,3 +45,16 @@ export interface H2HResult {
   noData?: boolean;
   cached?: boolean;
 }
+
+export interface BracketMatchNode {
+  round: number;
+  localPos: number;      // 1-indexed position within round (sorted by yCenter)
+  seeds: number[];       // player seeds in this match (R1 only; R2+ are empty)
+  parentId: number | null;
+  childIds: number[];    // global match IDs of the two child matches (empty for R1 leaves)
+}
+
+export interface BracketTree {
+  nodes: Record<string, BracketMatchNode>;  // key = global match ID as string
+  seedToMatchId: Record<string, number>;    // seed (string) → global match ID of R1 match
+}

@@ -1,18 +1,18 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import type { PlayerData, PlayersJson, BracketSlot, ProjectedOpponent } from "@/types/player";
+import type { PlayerData, PlayersJson, BracketTree, ProjectedOpponent } from "@/types/player";
 import { getProjectedOpponents } from "@/lib/bracket-logic";
 import PlayerCard from "./PlayerCard";
 import MatchPreview from "./MatchPreview";
 
 interface SearchBarProps {
   playersJson: PlayersJson;
-  bracketSlots: BracketSlot[];
+  bracketTree: BracketTree;
   onSelectPlayer: (player: PlayerData) => void;
 }
 
-export default function SearchBar({ playersJson, bracketSlots, onSelectPlayer }: SearchBarProps) {
+export default function SearchBar({ playersJson, bracketTree, onSelectPlayer }: SearchBarProps) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<PlayerData[]>([]);
   const [selected, setSelected] = useState<PlayerData | null>(null);
@@ -64,7 +64,7 @@ export default function SearchBar({ playersJson, bracketSlots, onSelectPlayer }:
     setSelected(player);
     setQuery(player.displayName);
     setShowDropdown(false);
-    setProjections(getProjectedOpponents(player.seed, bracketSlots));
+    setProjections(getProjectedOpponents(player.seed, bracketTree));
     onSelectPlayer(player);
   }
 

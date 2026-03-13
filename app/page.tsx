@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { PlayerData, PlayersJson, BracketSlot } from "@/types/player";
+import type { PlayerData, PlayersJson, BracketSlot, BracketTree } from "@/types/player";
 import dynamic from "next/dynamic";
 
 // Lazy-load heavy components (avoid SSR issues with canvas / transform libs)
@@ -14,6 +14,8 @@ const SearchBar = dynamic(() => import("@/components/SearchBar"), { ssr: false }
 const playersJson = (require("@/data/players.json") as PlayersJson);
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const bracketSlots = (require("@/data/bracket-slots.json") as BracketSlot[]);
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const bracketTree = (require("@/data/bracket-tree.json") as BracketTree);
 
 
 export default function Home() {
@@ -53,7 +55,11 @@ export default function Home() {
 
           {/* Search */}
           <div className="relative">
-            <SearchBar playersJson={playersJson} bracketSlots={bracketSlots} onSelectPlayer={handleSelectPlayer} />
+            <SearchBar
+              playersJson={playersJson}
+              bracketTree={bracketTree}
+              onSelectPlayer={handleSelectPlayer}
+            />
           </div>
         </div>
       </aside>
