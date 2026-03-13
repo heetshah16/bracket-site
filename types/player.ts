@@ -24,7 +24,7 @@ export interface BracketSlot {
 }
 
 export interface ProjectedOpponent {
-  round: 1 | 2 | 3;
+  round: number;
   opponentSeed: number;
   isBye: boolean;
 }
