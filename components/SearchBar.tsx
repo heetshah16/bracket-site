@@ -64,7 +64,7 @@ export default function SearchBar({ playersJson, bracketTree, onSelectPlayer }: 
     setSelected(player);
     setQuery(player.displayName);
     setShowDropdown(false);
-    setProjections(getProjectedOpponents(player.seed, bracketTree));
+    setProjections(getProjectedOpponents(player.seed, bracketTree, playersJson.players));
     onSelectPlayer(player);
   }
 

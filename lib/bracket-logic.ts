@@ -1,9 +1,27 @@
-import type { BracketTree, ProjectedOpponent } from "@/types/player";
+import type { BracketTree, PlayerData, ProjectedOpponent } from "@/types/player";
 
 const TOTAL_PLAYERS = 956;
 
 function isBye(seed: number): boolean {
   return seed > TOTAL_PLAYERS;
+}
+
+/**
+ * Returns the seed most likely to win from a set of candidates.
+ * Uses ELO as the primary signal; falls back to lowest seed number if no ELO data.
+ */
+function likelyWinner(
+  seeds: number[],
+  players: Record<string, PlayerData>
+): number {
+  if (seeds.length === 0) return -1;
+  return seeds.reduce((best, s) => {
+    const bestElo = players[String(best)]?.elo ?? -1;
+    const sElo    = players[String(s)]?.elo ?? -1;
+    if (sElo !== bestElo) return sElo > bestElo ? s : best;
+    // tie-break: lower seed number (higher seeded) wins
+    return s < best ? s : best;
+  });
 }
 
 /**
@@ -33,7 +51,8 @@ function getSeedsUnder(
  */
 export function getProjectedOpponents(
   seed: number,
-  tree: BracketTree
+  tree: BracketTree,
+  players: Record<string, PlayerData>
 ): ProjectedOpponent[] {
   const startId = tree.seedToMatchId[String(seed)];
   if (!startId) return [];
@@ -63,9 +82,9 @@ export function getProjectedOpponents(
     const siblingId = parentNode.childIds.find((id) => id !== currentId);
     if (siblingId === undefined) break;
 
-    // Best-case opponent = lowest seed number under the sibling's subtree
+    // Projected opponent = highest-ELO player under the sibling's subtree
     const candidateSeeds = getSeedsUnder(tree.nodes, siblingId);
-    const oppSeed = candidateSeeds.length > 0 ? Math.min(...candidateSeeds) : -1;
+    const oppSeed = candidateSeeds.length > 0 ? likelyWinner(candidateSeeds, players) : -1;
 
     results.push({
       round,
