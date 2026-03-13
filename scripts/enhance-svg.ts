@@ -31,9 +31,11 @@ const SVG_OUTPUT = path.resolve(__dirname, "../public/bracket-enhanced.svg");
 const SLOTS_OUTPUT = path.resolve(__dirname, "../data/bracket-slots.json");
 const PLAYERS_JSON = path.resolve(__dirname, "../data/players.json");
 
-const SVG_WIDTH = 3550;
-const ROUNDS = 8;
-const COLUMN_WIDTH = SVG_WIDTH / ROUNDS; // ~444px per round column
+// Match SVG elements are at x=25, 375, 725, 1075, … (350px apart) across 10 rounds.
+// Text nodes inside each match are at x=12, giving absolute x values of 37, 387, 737, …
+// COLUMN_WIDTH must be 350 so round = floor(absoluteX / 350) + 1 works correctly.
+const COLUMN_WIDTH = 350;
+const ROUNDS = 10;
 
 const PLAYER_PATTERN = /^(.+?)\s+\(#(\d+)\)$/;
 

@@ -74,7 +74,7 @@ export default function BracketViewer({ slots, highlightSeed }: BracketViewerPro
   return (
     <div
       className="w-full h-full relative"
-      style={{ backgroundColor: "#0B0D13", overflow: "hidden" }}
+      style={{ overflow: "hidden" }}
     >
       <TransformWrapper
         ref={transformRef}
