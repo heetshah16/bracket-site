@@ -77,6 +77,15 @@ function walkNode(node: SvgNode, absX: number, absY: number): void {
     childAbsY += parseFloat(node.attributes?.y ?? "0") || 0;
   }
 
+  // Remove the full-canvas background rect so the SVG is transparent
+  if (
+    node.name === "rect" &&
+    node.attributes?.width === "3550" &&
+    node.attributes?.height === "82035"
+  ) {
+    node.attributes = { ...node.attributes, fill: "none" };
+  }
+
   // Check <text> elements for player name pattern
   if (node.name === "text") {
     // Text content lives in child text nodes
